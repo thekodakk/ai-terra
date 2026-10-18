@@ -1,0 +1,30 @@
+# Local dependencies and generated output
+node_modules/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+*.log
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite*
+.DS_Store
+Thumbs.db
+# Private runtime data, model artifacts and locally generated training data
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+training/*.jsonl
+training/private/
+projects/*
+!projects/.gitkeep
+
+# Keep the bundled example project.
+!projects/ornek-proje/
+!projects/ornek-proje/**
