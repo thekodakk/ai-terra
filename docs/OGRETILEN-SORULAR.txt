@@ -1,0 +1,4469 @@
+merhaba
+Sen kimsin?
+Eğitim nedir?
+Bilgisayarımı görebiliyor musun?
+Dosyamı değiştirdin mi?
+İnternet gerekli mi?
+Daha ayrıntılı açıkla.
+Bilmiyorsan ne yapmalısın?
+Bugün hava nasıl?
+Model kime ait?
+Kodumu test ettin mi?
+Eğitimi nasıl durdururum?
+selam
+hello
+hi
+hey
+merhaba terra
+selam terra
+nasılsın
+nasilsin
+ne haber
+naber
+teşekkür ederim
+sağ ol
+saol
+teşekkürler
+görüşürüz
+hoşça kal
+bye
+iyiyim
+iyi
+ben iyiyim
+gayet iyiyim
+idare eder
+fena değil
+eh işte
+sıkıldım
+canım sıkılıyor
+yapacak bir şey yok
+bugün yoruldum
+yorgunum
+çok yoruldum
+günaydın
+iyi sabahlar
+iyi geceler
+yatıyorum
+uyuyacağım
+tamam
+olur
+anladım
+ok
+özür dilerim
+pardon
+kusura bakma
+adın ne
+ismin ne
+kendini tanıt
+ne yapabilirsin
+neler yapabiliyorsun
+özelliklerin neler
+kendi modelim misin
+başka bir model kullanıyor musun
+hazır model misin
+beni duyuyor musun
+sesimi duyabilir misin
+mikrofonu kullanıyor musun
+ekranıma bak
+ekranımı görüyor musun
+ne yaptığımı görebiliyor musun
+fareyi hareket ettir
+bilgisayarımı kontrol et
+tarayıcıyı aç
+bilmediğin sorularda ne yapıyorsun
+her şeyi biliyor musun
+yanlış cevap verir misin
+konuşmalarımı hatırlıyor musun
+önceki mesajımı hatırlıyor musun
+hafızan var mı
+verilerim internete gidiyor mu
+mesajlarımı gönderiyor musun
+çevrimdışı çalışır mısın
+nasıl öğreniyorsun
+nasıl eğitiliyorsun
+model eğitimi nasıl çalışır
+parametre nedir
+parametre ne demek
+model parametreleri nedir
+token nedir
+token ne demek
+bayt token nedir
+eğitim kaybı nedir
+loss nedir
+kayıp değeri nedir
+doğrulama verisi nedir
+test verisi ne işe yarar
+neden ayrı test yapılır
+ezberleme nedir
+overfitting nedir
+aşırı öğrenme nedir
+neden uzun cevap vermiyorsun
+cevapların neden kısa
+uzun yanıt ayarı ne yapar
+yazılım nedir
+program nedir
+yazılım ne demek
+değişken nedir
+variable nedir
+değişken ne işe yarar
+fonksiyon nedir
+function nedir
+fonksiyon ne işe yarar
+döngü nedir
+loop nedir
+döngü ne işe yarar
+koşul nedir
+if ne işe yarar
+if else nedir
+liste nedir
+python listesi nedir
+list ne işe yarar
+sözlük nedir
+python sözlüğü nedir
+dict nedir
+string nedir
+metin türü nedir
+str nedir
+boolean nedir
+bool nedir
+true false nedir
+hata ayıklama nedir
+debug nedir
+debugging nedir
+birim testi nedir
+unit test nedir
+test yazmak ne işe yarar
+algoritma nedir
+algoritma ne demek
+algoritma örneği ver
+api nedir
+api ne demek
+api ne işe yarar
+json nedir
+json ne demek
+json örneği ver
+html nedir
+html ne işe yarar
+web sayfasının yapısı nedir
+css nedir
+css ne işe yarar
+web sayfası nasıl biçimlenir
+javascript nedir
+javascript ne işe yarar
+python nedir
+python ne işe yarar
+git nedir
+sürüm kontrolü nedir
+git ne işe yarar
+veritabanı nedir
+database nedir
+veritabanı ne işe yarar
+sql nedir
+sql ne işe yarar
+yorum satırı nedir
+python yorum satırı nasıl yazılır
+python merhaba dünya yaz
+python hello world yaz
+python toplama fonksiyonu yaz
+iki sayıyı toplayan fonksiyon yaz
+python liste uzunluğu nasıl bulunur
+len ne işe yarar
+sıfıra bölme nedir
+python sıfıra bölme hatası
+int ve float farkı nedir
+tam sayı ve ondalıklı sayı farkı nedir
+eşittir ve çift eşittir farkı nedir
+python = ve == farkı
+proje fikri ver
+küçük bir proje öner
+ne kodlayabilirim
+nereden başlamalıyım
+kodlamaya nasıl başlayayım
+kodum çalışmıyor
+hata aldım
+bir hata var
+1 + 1 kaç eder
+1 + 2 kaç eder
+1 + 3 kaç eder
+1 + 4 kaç eder
+1 + 5 kaç eder
+2 + 1 kaç eder
+2 + 2 kaç eder
+2 + 3 kaç eder
+2 + 4 kaç eder
+2 + 5 kaç eder
+3 + 1 kaç eder
+3 + 2 kaç eder
+3 + 3 kaç eder
+3 + 4 kaç eder
+3 + 5 kaç eder
+4 + 1 kaç eder
+4 + 2 kaç eder
+4 + 3 kaç eder
+4 + 4 kaç eder
+4 + 5 kaç eder
+5 + 1 kaç eder
+5 + 2 kaç eder
+5 + 3 kaç eder
+5 + 4 kaç eder
+5 + 5 kaç eder
+Eğitim hakkında bilgi ver
+Eğitim konusunu açıkla
+Eğitim ne anlama gelir
+Eğitim hakkında kısa bilgi
+Eğitim nasıl açıklanır
+bana Eğitim anlat
+Eğitim açıklaması
+lütfen Eğitim açıkla
+Eğitim nedir anlatır mısın
+Eğitim nedir açıklar mısın
+Eğitim ne demek açıklayabilir misin
+Eğitim hakkında ne biliyorsun
+parametre hakkında bilgi ver
+parametre konusunu açıkla
+parametre ne anlama gelir
+parametre hakkında kısa bilgi
+parametre nasıl açıklanır
+bana parametre anlat
+parametre açıklaması
+lütfen parametre açıkla
+parametre nedir anlatır mısın
+parametre nedir açıklar mısın
+parametre ne demek açıklayabilir misin
+parametre hakkında ne biliyorsun
+model parametreleri hakkında bilgi ver
+model parametreleri konusunu açıkla
+model parametreleri ne anlama gelir
+model parametreleri hakkında kısa bilgi
+model parametreleri nasıl açıklanır
+bana model parametreleri anlat
+model parametreleri açıklaması
+lütfen model parametreleri açıkla
+model parametreleri nedir anlatır mısın
+model parametreleri nedir açıklar mısın
+model parametreleri ne demek açıklayabilir misin
+model parametreleri hakkında ne biliyorsun
+token hakkında bilgi ver
+token konusunu açıkla
+token ne anlama gelir
+token hakkında kısa bilgi
+token nasıl açıklanır
+bana token anlat
+token açıklaması
+lütfen token açıkla
+token nedir anlatır mısın
+token nedir açıklar mısın
+token ne demek açıklayabilir misin
+token hakkında ne biliyorsun
+bayt token hakkında bilgi ver
+bayt token konusunu açıkla
+bayt token ne anlama gelir
+bayt token hakkında kısa bilgi
+bayt token nasıl açıklanır
+bana bayt token anlat
+bayt token açıklaması
+lütfen bayt token açıkla
+bayt token nedir anlatır mısın
+bayt token nedir açıklar mısın
+bayt token ne demek açıklayabilir misin
+bayt token hakkında ne biliyorsun
+eğitim kaybı hakkında bilgi ver
+eğitim kaybı konusunu açıkla
+eğitim kaybı ne anlama gelir
+eğitim kaybı hakkında kısa bilgi
+eğitim kaybı nasıl açıklanır
+bana eğitim kaybı anlat
+eğitim kaybı açıklaması
+lütfen eğitim kaybı açıkla
+eğitim kaybı nedir anlatır mısın
+eğitim kaybı nedir açıklar mısın
+eğitim kaybı ne demek açıklayabilir misin
+eğitim kaybı hakkında ne biliyorsun
+loss hakkında bilgi ver
+loss konusunu açıkla
+loss ne anlama gelir
+loss hakkında kısa bilgi
+loss nasıl açıklanır
+bana loss anlat
+loss açıklaması
+lütfen loss açıkla
+loss nedir anlatır mısın
+loss nedir açıklar mısın
+loss ne demek açıklayabilir misin
+loss hakkında ne biliyorsun
+kayıp değeri hakkında bilgi ver
+kayıp değeri konusunu açıkla
+kayıp değeri ne anlama gelir
+kayıp değeri hakkında kısa bilgi
+kayıp değeri nasıl açıklanır
+bana kayıp değeri anlat
+kayıp değeri açıklaması
+lütfen kayıp değeri açıkla
+kayıp değeri nedir anlatır mısın
+kayıp değeri nedir açıklar mısın
+kayıp değeri ne demek açıklayabilir misin
+kayıp değeri hakkında ne biliyorsun
+doğrulama verisi hakkında bilgi ver
+doğrulama verisi konusunu açıkla
+doğrulama verisi ne anlama gelir
+doğrulama verisi hakkında kısa bilgi
+doğrulama verisi nasıl açıklanır
+bana doğrulama verisi anlat
+doğrulama verisi açıklaması
+lütfen doğrulama verisi açıkla
+doğrulama verisi nedir anlatır mısın
+doğrulama verisi nedir açıklar mısın
+doğrulama verisi ne demek açıklayabilir misin
+doğrulama verisi hakkında ne biliyorsun
+ezberleme hakkında bilgi ver
+ezberleme konusunu açıkla
+ezberleme ne anlama gelir
+ezberleme hakkında kısa bilgi
+ezberleme nasıl açıklanır
+bana ezberleme anlat
+ezberleme açıklaması
+lütfen ezberleme açıkla
+ezberleme nedir anlatır mısın
+ezberleme nedir açıklar mısın
+ezberleme ne demek açıklayabilir misin
+ezberleme hakkında ne biliyorsun
+overfitting hakkında bilgi ver
+overfitting konusunu açıkla
+overfitting ne anlama gelir
+overfitting hakkında kısa bilgi
+overfitting nasıl açıklanır
+bana overfitting anlat
+overfitting açıklaması
+lütfen overfitting açıkla
+overfitting nedir anlatır mısın
+overfitting nedir açıklar mısın
+overfitting ne demek açıklayabilir misin
+overfitting hakkında ne biliyorsun
+aşırı öğrenme hakkında bilgi ver
+aşırı öğrenme konusunu açıkla
+aşırı öğrenme ne anlama gelir
+aşırı öğrenme hakkında kısa bilgi
+aşırı öğrenme nasıl açıklanır
+bana aşırı öğrenme anlat
+aşırı öğrenme açıklaması
+lütfen aşırı öğrenme açıkla
+aşırı öğrenme nedir anlatır mısın
+aşırı öğrenme nedir açıklar mısın
+aşırı öğrenme ne demek açıklayabilir misin
+aşırı öğrenme hakkında ne biliyorsun
+yazılım hakkında bilgi ver
+yazılım konusunu açıkla
+yazılım ne anlama gelir
+yazılım hakkında kısa bilgi
+yazılım nasıl açıklanır
+bana yazılım anlat
+yazılım açıklaması
+lütfen yazılım açıkla
+yazılım nedir anlatır mısın
+yazılım nedir açıklar mısın
+yazılım ne demek açıklayabilir misin
+yazılım hakkında ne biliyorsun
+program hakkında bilgi ver
+program konusunu açıkla
+program ne anlama gelir
+program hakkında kısa bilgi
+program nasıl açıklanır
+bana program anlat
+program açıklaması
+lütfen program açıkla
+program nedir anlatır mısın
+program nedir açıklar mısın
+program ne demek açıklayabilir misin
+program hakkında ne biliyorsun
+değişken hakkında bilgi ver
+değişken konusunu açıkla
+değişken ne anlama gelir
+değişken hakkında kısa bilgi
+değişken nasıl açıklanır
+bana değişken anlat
+değişken açıklaması
+lütfen değişken açıkla
+değişken nedir anlatır mısın
+değişken nedir açıklar mısın
+değişken ne demek açıklayabilir misin
+değişken hakkında ne biliyorsun
+variable hakkında bilgi ver
+variable konusunu açıkla
+variable ne anlama gelir
+variable hakkında kısa bilgi
+variable nasıl açıklanır
+bana variable anlat
+variable açıklaması
+lütfen variable açıkla
+variable nedir anlatır mısın
+variable nedir açıklar mısın
+variable ne demek açıklayabilir misin
+variable hakkında ne biliyorsun
+fonksiyon hakkında bilgi ver
+fonksiyon konusunu açıkla
+fonksiyon ne anlama gelir
+fonksiyon hakkında kısa bilgi
+fonksiyon nasıl açıklanır
+bana fonksiyon anlat
+fonksiyon açıklaması
+lütfen fonksiyon açıkla
+fonksiyon nedir anlatır mısın
+fonksiyon nedir açıklar mısın
+fonksiyon ne demek açıklayabilir misin
+fonksiyon hakkında ne biliyorsun
+function hakkında bilgi ver
+function konusunu açıkla
+function ne anlama gelir
+function hakkında kısa bilgi
+function nasıl açıklanır
+bana function anlat
+function açıklaması
+lütfen function açıkla
+function nedir anlatır mısın
+function nedir açıklar mısın
+function ne demek açıklayabilir misin
+function hakkında ne biliyorsun
+döngü hakkında bilgi ver
+döngü konusunu açıkla
+döngü ne anlama gelir
+döngü hakkında kısa bilgi
+döngü nasıl açıklanır
+bana döngü anlat
+döngü açıklaması
+lütfen döngü açıkla
+döngü nedir anlatır mısın
+döngü nedir açıklar mısın
+döngü ne demek açıklayabilir misin
+döngü hakkında ne biliyorsun
+loop hakkında bilgi ver
+loop konusunu açıkla
+loop ne anlama gelir
+loop hakkında kısa bilgi
+loop nasıl açıklanır
+bana loop anlat
+loop açıklaması
+lütfen loop açıkla
+loop nedir anlatır mısın
+loop nedir açıklar mısın
+loop ne demek açıklayabilir misin
+loop hakkında ne biliyorsun
+koşul hakkında bilgi ver
+koşul konusunu açıkla
+koşul ne anlama gelir
+koşul hakkında kısa bilgi
+koşul nasıl açıklanır
+bana koşul anlat
+koşul açıklaması
+lütfen koşul açıkla
+koşul nedir anlatır mısın
+koşul nedir açıklar mısın
+koşul ne demek açıklayabilir misin
+koşul hakkında ne biliyorsun
+if else hakkında bilgi ver
+if else konusunu açıkla
+if else ne anlama gelir
+if else hakkında kısa bilgi
+if else nasıl açıklanır
+bana if else anlat
+if else açıklaması
+lütfen if else açıkla
+if else nedir anlatır mısın
+if else nedir açıklar mısın
+if else ne demek açıklayabilir misin
+if else hakkında ne biliyorsun
+liste hakkında bilgi ver
+liste konusunu açıkla
+liste ne anlama gelir
+liste hakkında kısa bilgi
+liste nasıl açıklanır
+bana liste anlat
+liste açıklaması
+lütfen liste açıkla
+liste nedir anlatır mısın
+liste nedir açıklar mısın
+liste ne demek açıklayabilir misin
+liste hakkında ne biliyorsun
+python listesi hakkında bilgi ver
+python listesi konusunu açıkla
+python listesi ne anlama gelir
+python listesi hakkında kısa bilgi
+python listesi nasıl açıklanır
+bana python listesi anlat
+python listesi açıklaması
+lütfen python listesi açıkla
+python listesi nedir anlatır mısın
+python listesi nedir açıklar mısın
+python listesi ne demek açıklayabilir misin
+python listesi hakkında ne biliyorsun
+sözlük hakkında bilgi ver
+sözlük konusunu açıkla
+sözlük ne anlama gelir
+sözlük hakkında kısa bilgi
+sözlük nasıl açıklanır
+bana sözlük anlat
+sözlük açıklaması
+lütfen sözlük açıkla
+sözlük nedir anlatır mısın
+sözlük nedir açıklar mısın
+sözlük ne demek açıklayabilir misin
+sözlük hakkında ne biliyorsun
+python sözlüğü hakkında bilgi ver
+python sözlüğü konusunu açıkla
+python sözlüğü ne anlama gelir
+python sözlüğü hakkında kısa bilgi
+python sözlüğü nasıl açıklanır
+bana python sözlüğü anlat
+python sözlüğü açıklaması
+lütfen python sözlüğü açıkla
+python sözlüğü nedir anlatır mısın
+python sözlüğü nedir açıklar mısın
+python sözlüğü ne demek açıklayabilir misin
+python sözlüğü hakkında ne biliyorsun
+dict hakkında bilgi ver
+dict konusunu açıkla
+dict ne anlama gelir
+dict hakkında kısa bilgi
+dict nasıl açıklanır
+bana dict anlat
+dict açıklaması
+lütfen dict açıkla
+dict nedir anlatır mısın
+dict nedir açıklar mısın
+dict ne demek açıklayabilir misin
+dict hakkında ne biliyorsun
+string hakkında bilgi ver
+string konusunu açıkla
+string ne anlama gelir
+string hakkında kısa bilgi
+string nasıl açıklanır
+bana string anlat
+string açıklaması
+lütfen string açıkla
+string nedir anlatır mısın
+string nedir açıklar mısın
+string ne demek açıklayabilir misin
+string hakkında ne biliyorsun
+metin türü hakkında bilgi ver
+metin türü konusunu açıkla
+metin türü ne anlama gelir
+metin türü hakkında kısa bilgi
+metin türü nasıl açıklanır
+bana metin türü anlat
+metin türü açıklaması
+lütfen metin türü açıkla
+metin türü nedir anlatır mısın
+metin türü nedir açıklar mısın
+metin türü ne demek açıklayabilir misin
+metin türü hakkında ne biliyorsun
+str hakkında bilgi ver
+str konusunu açıkla
+str ne anlama gelir
+str hakkında kısa bilgi
+str nasıl açıklanır
+bana str anlat
+str açıklaması
+lütfen str açıkla
+str nedir anlatır mısın
+str nedir açıklar mısın
+str ne demek açıklayabilir misin
+str hakkında ne biliyorsun
+boolean hakkında bilgi ver
+boolean konusunu açıkla
+boolean ne anlama gelir
+boolean hakkında kısa bilgi
+boolean nasıl açıklanır
+bana boolean anlat
+boolean açıklaması
+lütfen boolean açıkla
+boolean nedir anlatır mısın
+boolean nedir açıklar mısın
+boolean ne demek açıklayabilir misin
+boolean hakkında ne biliyorsun
+bool hakkında bilgi ver
+bool konusunu açıkla
+bool ne anlama gelir
+bool hakkında kısa bilgi
+bool nasıl açıklanır
+bana bool anlat
+bool açıklaması
+lütfen bool açıkla
+bool nedir anlatır mısın
+bool nedir açıklar mısın
+bool ne demek açıklayabilir misin
+bool hakkında ne biliyorsun
+true false hakkında bilgi ver
+true false konusunu açıkla
+true false ne anlama gelir
+true false hakkında kısa bilgi
+true false nasıl açıklanır
+bana true false anlat
+true false açıklaması
+lütfen true false açıkla
+true false nedir anlatır mısın
+true false nedir açıklar mısın
+true false ne demek açıklayabilir misin
+true false hakkında ne biliyorsun
+hata ayıklama hakkında bilgi ver
+hata ayıklama konusunu açıkla
+hata ayıklama ne anlama gelir
+hata ayıklama hakkında kısa bilgi
+hata ayıklama nasıl açıklanır
+bana hata ayıklama anlat
+hata ayıklama açıklaması
+lütfen hata ayıklama açıkla
+hata ayıklama nedir anlatır mısın
+hata ayıklama nedir açıklar mısın
+hata ayıklama ne demek açıklayabilir misin
+hata ayıklama hakkında ne biliyorsun
+debug hakkında bilgi ver
+debug konusunu açıkla
+debug ne anlama gelir
+debug hakkında kısa bilgi
+debug nasıl açıklanır
+bana debug anlat
+debug açıklaması
+lütfen debug açıkla
+debug nedir anlatır mısın
+debug nedir açıklar mısın
+debug ne demek açıklayabilir misin
+debug hakkında ne biliyorsun
+debugging hakkında bilgi ver
+debugging konusunu açıkla
+debugging ne anlama gelir
+debugging hakkında kısa bilgi
+debugging nasıl açıklanır
+bana debugging anlat
+debugging açıklaması
+lütfen debugging açıkla
+debugging nedir anlatır mısın
+debugging nedir açıklar mısın
+debugging ne demek açıklayabilir misin
+debugging hakkında ne biliyorsun
+birim testi hakkında bilgi ver
+birim testi konusunu açıkla
+birim testi ne anlama gelir
+birim testi hakkında kısa bilgi
+birim testi nasıl açıklanır
+bana birim testi anlat
+birim testi açıklaması
+lütfen birim testi açıkla
+birim testi nedir anlatır mısın
+birim testi nedir açıklar mısın
+birim testi ne demek açıklayabilir misin
+birim testi hakkında ne biliyorsun
+unit test hakkında bilgi ver
+unit test konusunu açıkla
+unit test ne anlama gelir
+unit test hakkında kısa bilgi
+unit test nasıl açıklanır
+bana unit test anlat
+unit test açıklaması
+lütfen unit test açıkla
+unit test nedir anlatır mısın
+unit test nedir açıklar mısın
+unit test ne demek açıklayabilir misin
+unit test hakkında ne biliyorsun
+algoritma hakkında bilgi ver
+algoritma konusunu açıkla
+algoritma ne anlama gelir
+algoritma hakkında kısa bilgi
+algoritma nasıl açıklanır
+bana algoritma anlat
+algoritma açıklaması
+lütfen algoritma açıkla
+algoritma nedir anlatır mısın
+algoritma nedir açıklar mısın
+algoritma ne demek açıklayabilir misin
+algoritma hakkında ne biliyorsun
+api hakkında bilgi ver
+api konusunu açıkla
+api ne anlama gelir
+api hakkında kısa bilgi
+api nasıl açıklanır
+bana api anlat
+api açıklaması
+lütfen api açıkla
+api nedir anlatır mısın
+api nedir açıklar mısın
+api ne demek açıklayabilir misin
+api hakkında ne biliyorsun
+json hakkında bilgi ver
+json konusunu açıkla
+json ne anlama gelir
+json hakkında kısa bilgi
+json nasıl açıklanır
+bana json anlat
+json açıklaması
+lütfen json açıkla
+json nedir anlatır mısın
+json nedir açıklar mısın
+json ne demek açıklayabilir misin
+json hakkında ne biliyorsun
+html hakkında bilgi ver
+html konusunu açıkla
+html ne anlama gelir
+html hakkında kısa bilgi
+html nasıl açıklanır
+bana html anlat
+html açıklaması
+lütfen html açıkla
+html nedir anlatır mısın
+html nedir açıklar mısın
+html ne demek açıklayabilir misin
+html hakkında ne biliyorsun
+web sayfasının yapısı hakkında bilgi ver
+web sayfasının yapısı konusunu açıkla
+web sayfasının yapısı ne anlama gelir
+web sayfasının yapısı hakkında kısa bilgi
+web sayfasının yapısı nasıl açıklanır
+bana web sayfasının yapısı anlat
+web sayfasının yapısı açıklaması
+lütfen web sayfasının yapısı açıkla
+web sayfasının yapısı nedir anlatır mısın
+web sayfasının yapısı nedir açıklar mısın
+web sayfasının yapısı ne demek açıklayabilir misin
+web sayfasının yapısı hakkında ne biliyorsun
+css hakkında bilgi ver
+css konusunu açıkla
+css ne anlama gelir
+css hakkında kısa bilgi
+css nasıl açıklanır
+bana css anlat
+css açıklaması
+lütfen css açıkla
+css nedir anlatır mısın
+css nedir açıklar mısın
+css ne demek açıklayabilir misin
+css hakkında ne biliyorsun
+javascript hakkında bilgi ver
+javascript konusunu açıkla
+javascript ne anlama gelir
+javascript hakkında kısa bilgi
+javascript nasıl açıklanır
+bana javascript anlat
+javascript açıklaması
+lütfen javascript açıkla
+javascript nedir anlatır mısın
+javascript nedir açıklar mısın
+javascript ne demek açıklayabilir misin
+javascript hakkında ne biliyorsun
+python hakkında bilgi ver
+python konusunu açıkla
+python ne anlama gelir
+python hakkında kısa bilgi
+python nasıl açıklanır
+bana python anlat
+python açıklaması
+lütfen python açıkla
+python nedir anlatır mısın
+python nedir açıklar mısın
+python ne demek açıklayabilir misin
+python hakkında ne biliyorsun
+git hakkında bilgi ver
+git konusunu açıkla
+git ne anlama gelir
+git hakkında kısa bilgi
+git nasıl açıklanır
+bana git anlat
+git açıklaması
+lütfen git açıkla
+git nedir anlatır mısın
+git nedir açıklar mısın
+git ne demek açıklayabilir misin
+git hakkında ne biliyorsun
+sürüm kontrolü hakkında bilgi ver
+sürüm kontrolü konusunu açıkla
+sürüm kontrolü ne anlama gelir
+sürüm kontrolü hakkında kısa bilgi
+sürüm kontrolü nasıl açıklanır
+bana sürüm kontrolü anlat
+sürüm kontrolü açıklaması
+lütfen sürüm kontrolü açıkla
+sürüm kontrolü nedir anlatır mısın
+sürüm kontrolü nedir açıklar mısın
+sürüm kontrolü ne demek açıklayabilir misin
+sürüm kontrolü hakkında ne biliyorsun
+veritabanı hakkında bilgi ver
+veritabanı konusunu açıkla
+veritabanı ne anlama gelir
+veritabanı hakkında kısa bilgi
+veritabanı nasıl açıklanır
+bana veritabanı anlat
+veritabanı açıklaması
+lütfen veritabanı açıkla
+veritabanı nedir anlatır mısın
+veritabanı nedir açıklar mısın
+veritabanı ne demek açıklayabilir misin
+veritabanı hakkında ne biliyorsun
+database hakkında bilgi ver
+database konusunu açıkla
+database ne anlama gelir
+database hakkında kısa bilgi
+database nasıl açıklanır
+bana database anlat
+database açıklaması
+lütfen database açıkla
+database nedir anlatır mısın
+database nedir açıklar mısın
+database ne demek açıklayabilir misin
+database hakkında ne biliyorsun
+sql hakkında bilgi ver
+sql konusunu açıkla
+sql ne anlama gelir
+sql hakkında kısa bilgi
+sql nasıl açıklanır
+bana sql anlat
+sql açıklaması
+lütfen sql açıkla
+sql nedir anlatır mısın
+sql nedir açıklar mısın
+sql ne demek açıklayabilir misin
+sql hakkında ne biliyorsun
+yorum satırı hakkında bilgi ver
+yorum satırı konusunu açıkla
+yorum satırı ne anlama gelir
+yorum satırı hakkında kısa bilgi
+yorum satırı nasıl açıklanır
+bana yorum satırı anlat
+yorum satırı açıklaması
+lütfen yorum satırı açıkla
+yorum satırı nedir anlatır mısın
+yorum satırı nedir açıklar mısın
+yorum satırı ne demek açıklayabilir misin
+yorum satırı hakkında ne biliyorsun
+sıfıra bölme hakkında bilgi ver
+sıfıra bölme konusunu açıkla
+sıfıra bölme ne anlama gelir
+sıfıra bölme hakkında kısa bilgi
+sıfıra bölme nasıl açıklanır
+bana sıfıra bölme anlat
+sıfıra bölme açıklaması
+lütfen sıfıra bölme açıkla
+sıfıra bölme nedir anlatır mısın
+sıfıra bölme nedir açıklar mısın
+sıfıra bölme ne demek açıklayabilir misin
+sıfıra bölme hakkında ne biliyorsun
+int ve float farkı hakkında bilgi ver
+int ve float farkı konusunu açıkla
+int ve float farkı ne anlama gelir
+int ve float farkı hakkında kısa bilgi
+int ve float farkı nasıl açıklanır
+bana int ve float farkı anlat
+int ve float farkı açıklaması
+lütfen int ve float farkı açıkla
+int ve float farkı nedir anlatır mısın
+int ve float farkı nedir açıklar mısın
+int ve float farkı ne demek açıklayabilir misin
+int ve float farkı hakkında ne biliyorsun
+tam sayı ve ondalıklı sayı farkı hakkında bilgi ver
+tam sayı ve ondalıklı sayı farkı konusunu açıkla
+tam sayı ve ondalıklı sayı farkı ne anlama gelir
+tam sayı ve ondalıklı sayı farkı hakkında kısa bilgi
+tam sayı ve ondalıklı sayı farkı nasıl açıklanır
+bana tam sayı ve ondalıklı sayı farkı anlat
+tam sayı ve ondalıklı sayı farkı açıklaması
+lütfen tam sayı ve ondalıklı sayı farkı açıkla
+tam sayı ve ondalıklı sayı farkı nedir anlatır mısın
+tam sayı ve ondalıklı sayı farkı nedir açıklar mısın
+tam sayı ve ondalıklı sayı farkı ne demek açıklayabilir misin
+tam sayı ve ondalıklı sayı farkı hakkında ne biliyorsun
+eşittir ve çift eşittir farkı hakkında bilgi ver
+eşittir ve çift eşittir farkı konusunu açıkla
+eşittir ve çift eşittir farkı ne anlama gelir
+eşittir ve çift eşittir farkı hakkında kısa bilgi
+eşittir ve çift eşittir farkı nasıl açıklanır
+bana eşittir ve çift eşittir farkı anlat
+eşittir ve çift eşittir farkı açıklaması
+lütfen eşittir ve çift eşittir farkı açıkla
+eşittir ve çift eşittir farkı nedir anlatır mısın
+eşittir ve çift eşittir farkı nedir açıklar mısın
+eşittir ve çift eşittir farkı ne demek açıklayabilir misin
+eşittir ve çift eşittir farkı hakkında ne biliyorsun
+eğitim nedir acaba
+egitim nedir acaba
+eğitim ne işe yarıyor
+egitim ne ise yariyor
+eğitim ne işe yarar
+egitim ne ise yarar
+eğitim konusunu anlatır mısın
+egitim konusunu anlatir misin
+eğitim hakkında bilgi verir misin
+egitim hakkinda bilgi verir misin
+eğitim kavramını açıklar mısın
+egitim kavramini aciklar misin
+eğitim tam olarak ne demek
+egitim tam olarak ne demek
+eğitim konusunda konuşalım
+egitim konusunda konusalim
+eğitim öğrenmek istiyorum
+egitim ogrenmek istiyorum
+eğitim nedir basitçe anlat
+egitim nedir basitce anlat
+bana eğitim anlatabilir misin
+bana egitim anlatabilir misin
+eğitim ne demek ya
+egitim ne demek ya
+eğitim nedir kısaca açıkla
+egitim nedir kisaca acikla
+eğitim hakkında konuşabilir miyiz
+egitim hakkinda konusabilir miyiz
+parametre nedir acaba
+parametre ne işe yarıyor
+parametre ne ise yariyor
+parametre ne işe yarar
+parametre ne ise yarar
+parametre konusunu anlatır mısın
+parametre konusunu anlatir misin
+parametre hakkında bilgi verir misin
+parametre hakkinda bilgi verir misin
+parametre kavramını açıklar mısın
+parametre kavramini aciklar misin
+parametre tam olarak ne demek
+parametre konusunda konuşalım
+parametre konusunda konusalim
+parametre öğrenmek istiyorum
+parametre ogrenmek istiyorum
+parametre nedir basitçe anlat
+parametre nedir basitce anlat
+bana parametre anlatabilir misin
+parametre ne demek ya
+parametre nedir kısaca açıkla
+parametre nedir kisaca acikla
+parametre hakkında konuşabilir miyiz
+parametre hakkinda konusabilir miyiz
+model parametreleri nedir acaba
+model parametreleri ne işe yarıyor
+model parametreleri ne ise yariyor
+model parametreleri ne işe yarar
+model parametreleri ne ise yarar
+model parametreleri konusunu anlatır mısın
+model parametreleri konusunu anlatir misin
+model parametreleri hakkında bilgi verir misin
+model parametreleri hakkinda bilgi verir misin
+model parametreleri kavramını açıklar mısın
+model parametreleri kavramini aciklar misin
+model parametreleri tam olarak ne demek
+model parametreleri konusunda konuşalım
+model parametreleri konusunda konusalim
+model parametreleri öğrenmek istiyorum
+model parametreleri ogrenmek istiyorum
+model parametreleri nedir basitçe anlat
+model parametreleri nedir basitce anlat
+bana model parametreleri anlatabilir misin
+model parametreleri ne demek ya
+model parametreleri nedir kısaca açıkla
+model parametreleri nedir kisaca acikla
+model parametreleri hakkında konuşabilir miyiz
+model parametreleri hakkinda konusabilir miyiz
+token nedir acaba
+token ne işe yarıyor
+token ne ise yariyor
+token ne işe yarar
+token ne ise yarar
+token konusunu anlatır mısın
+token konusunu anlatir misin
+token hakkında bilgi verir misin
+token hakkinda bilgi verir misin
+token kavramını açıklar mısın
+token kavramini aciklar misin
+token tam olarak ne demek
+token konusunda konuşalım
+token konusunda konusalim
+token öğrenmek istiyorum
+token ogrenmek istiyorum
+token nedir basitçe anlat
+token nedir basitce anlat
+bana token anlatabilir misin
+token ne demek ya
+token nedir kısaca açıkla
+token nedir kisaca acikla
+token hakkında konuşabilir miyiz
+token hakkinda konusabilir miyiz
+bayt token nedir acaba
+bayt token ne işe yarıyor
+bayt token ne ise yariyor
+bayt token ne işe yarar
+bayt token ne ise yarar
+bayt token konusunu anlatır mısın
+bayt token konusunu anlatir misin
+bayt token hakkında bilgi verir misin
+bayt token hakkinda bilgi verir misin
+bayt token kavramını açıklar mısın
+bayt token kavramini aciklar misin
+bayt token tam olarak ne demek
+bayt token konusunda konuşalım
+bayt token konusunda konusalim
+bayt token öğrenmek istiyorum
+bayt token ogrenmek istiyorum
+bayt token nedir basitçe anlat
+bayt token nedir basitce anlat
+bana bayt token anlatabilir misin
+bayt token ne demek ya
+bayt token nedir kısaca açıkla
+bayt token nedir kisaca acikla
+bayt token hakkında konuşabilir miyiz
+bayt token hakkinda konusabilir miyiz
+eğitim kaybı nedir acaba
+egitim kaybi nedir acaba
+eğitim kaybı ne işe yarıyor
+egitim kaybi ne ise yariyor
+eğitim kaybı ne işe yarar
+egitim kaybi ne ise yarar
+eğitim kaybı konusunu anlatır mısın
+egitim kaybi konusunu anlatir misin
+eğitim kaybı hakkında bilgi verir misin
+egitim kaybi hakkinda bilgi verir misin
+eğitim kaybı kavramını açıklar mısın
+egitim kaybi kavramini aciklar misin
+eğitim kaybı tam olarak ne demek
+egitim kaybi tam olarak ne demek
+eğitim kaybı konusunda konuşalım
+egitim kaybi konusunda konusalim
+eğitim kaybı öğrenmek istiyorum
+egitim kaybi ogrenmek istiyorum
+eğitim kaybı nedir basitçe anlat
+egitim kaybi nedir basitce anlat
+bana eğitim kaybı anlatabilir misin
+bana egitim kaybi anlatabilir misin
+eğitim kaybı ne demek ya
+egitim kaybi ne demek ya
+eğitim kaybı nedir kısaca açıkla
+egitim kaybi nedir kisaca acikla
+eğitim kaybı hakkında konuşabilir miyiz
+egitim kaybi hakkinda konusabilir miyiz
+loss nedir acaba
+loss ne işe yarıyor
+loss ne ise yariyor
+loss ne işe yarar
+loss ne ise yarar
+loss konusunu anlatır mısın
+loss konusunu anlatir misin
+loss hakkında bilgi verir misin
+loss hakkinda bilgi verir misin
+loss kavramını açıklar mısın
+loss kavramini aciklar misin
+loss tam olarak ne demek
+loss konusunda konuşalım
+loss konusunda konusalim
+loss öğrenmek istiyorum
+loss ogrenmek istiyorum
+loss nedir basitçe anlat
+loss nedir basitce anlat
+bana loss anlatabilir misin
+loss ne demek ya
+loss nedir kısaca açıkla
+loss nedir kisaca acikla
+loss hakkında konuşabilir miyiz
+loss hakkinda konusabilir miyiz
+kayıp değeri nedir acaba
+kayip degeri nedir acaba
+kayıp değeri ne işe yarıyor
+kayip degeri ne ise yariyor
+kayıp değeri ne işe yarar
+kayip degeri ne ise yarar
+kayıp değeri konusunu anlatır mısın
+kayip degeri konusunu anlatir misin
+kayıp değeri hakkında bilgi verir misin
+kayip degeri hakkinda bilgi verir misin
+kayıp değeri kavramını açıklar mısın
+kayip degeri kavramini aciklar misin
+kayıp değeri tam olarak ne demek
+kayip degeri tam olarak ne demek
+kayıp değeri konusunda konuşalım
+kayip degeri konusunda konusalim
+kayıp değeri öğrenmek istiyorum
+kayip degeri ogrenmek istiyorum
+kayıp değeri nedir basitçe anlat
+kayip degeri nedir basitce anlat
+bana kayıp değeri anlatabilir misin
+bana kayip degeri anlatabilir misin
+kayıp değeri ne demek ya
+kayip degeri ne demek ya
+kayıp değeri nedir kısaca açıkla
+kayip degeri nedir kisaca acikla
+kayıp değeri hakkında konuşabilir miyiz
+kayip degeri hakkinda konusabilir miyiz
+doğrulama verisi nedir acaba
+dogrulama verisi nedir acaba
+doğrulama verisi ne işe yarıyor
+dogrulama verisi ne ise yariyor
+doğrulama verisi ne işe yarar
+dogrulama verisi ne ise yarar
+doğrulama verisi konusunu anlatır mısın
+dogrulama verisi konusunu anlatir misin
+doğrulama verisi hakkında bilgi verir misin
+dogrulama verisi hakkinda bilgi verir misin
+doğrulama verisi kavramını açıklar mısın
+dogrulama verisi kavramini aciklar misin
+doğrulama verisi tam olarak ne demek
+dogrulama verisi tam olarak ne demek
+doğrulama verisi konusunda konuşalım
+dogrulama verisi konusunda konusalim
+doğrulama verisi öğrenmek istiyorum
+dogrulama verisi ogrenmek istiyorum
+doğrulama verisi nedir basitçe anlat
+dogrulama verisi nedir basitce anlat
+bana doğrulama verisi anlatabilir misin
+bana dogrulama verisi anlatabilir misin
+doğrulama verisi ne demek ya
+dogrulama verisi ne demek ya
+doğrulama verisi nedir kısaca açıkla
+dogrulama verisi nedir kisaca acikla
+doğrulama verisi hakkında konuşabilir miyiz
+dogrulama verisi hakkinda konusabilir miyiz
+ezberleme nedir acaba
+ezberleme ne işe yarıyor
+ezberleme ne ise yariyor
+ezberleme ne işe yarar
+ezberleme ne ise yarar
+ezberleme konusunu anlatır mısın
+ezberleme konusunu anlatir misin
+ezberleme hakkında bilgi verir misin
+ezberleme hakkinda bilgi verir misin
+ezberleme kavramını açıklar mısın
+ezberleme kavramini aciklar misin
+ezberleme tam olarak ne demek
+ezberleme konusunda konuşalım
+ezberleme konusunda konusalim
+ezberleme öğrenmek istiyorum
+ezberleme ogrenmek istiyorum
+ezberleme nedir basitçe anlat
+ezberleme nedir basitce anlat
+bana ezberleme anlatabilir misin
+ezberleme ne demek ya
+ezberleme nedir kısaca açıkla
+ezberleme nedir kisaca acikla
+ezberleme hakkında konuşabilir miyiz
+ezberleme hakkinda konusabilir miyiz
+overfitting nedir acaba
+overfitting ne işe yarıyor
+overfitting ne ise yariyor
+overfitting ne işe yarar
+overfitting ne ise yarar
+overfitting konusunu anlatır mısın
+overfitting konusunu anlatir misin
+overfitting hakkında bilgi verir misin
+overfitting hakkinda bilgi verir misin
+overfitting kavramını açıklar mısın
+overfitting kavramini aciklar misin
+overfitting tam olarak ne demek
+overfitting konusunda konuşalım
+overfitting konusunda konusalim
+overfitting öğrenmek istiyorum
+overfitting ogrenmek istiyorum
+overfitting nedir basitçe anlat
+overfitting nedir basitce anlat
+bana overfitting anlatabilir misin
+overfitting ne demek ya
+overfitting nedir kısaca açıkla
+overfitting nedir kisaca acikla
+overfitting hakkında konuşabilir miyiz
+overfitting hakkinda konusabilir miyiz
+aşırı öğrenme nedir acaba
+asiri ogrenme nedir acaba
+aşırı öğrenme ne işe yarıyor
+asiri ogrenme ne ise yariyor
+aşırı öğrenme ne işe yarar
+asiri ogrenme ne ise yarar
+aşırı öğrenme konusunu anlatır mısın
+asiri ogrenme konusunu anlatir misin
+aşırı öğrenme hakkında bilgi verir misin
+asiri ogrenme hakkinda bilgi verir misin
+aşırı öğrenme kavramını açıklar mısın
+asiri ogrenme kavramini aciklar misin
+aşırı öğrenme tam olarak ne demek
+asiri ogrenme tam olarak ne demek
+aşırı öğrenme konusunda konuşalım
+asiri ogrenme konusunda konusalim
+aşırı öğrenme öğrenmek istiyorum
+asiri ogrenme ogrenmek istiyorum
+aşırı öğrenme nedir basitçe anlat
+asiri ogrenme nedir basitce anlat
+bana aşırı öğrenme anlatabilir misin
+bana asiri ogrenme anlatabilir misin
+aşırı öğrenme ne demek ya
+asiri ogrenme ne demek ya
+aşırı öğrenme nedir kısaca açıkla
+asiri ogrenme nedir kisaca acikla
+aşırı öğrenme hakkında konuşabilir miyiz
+asiri ogrenme hakkinda konusabilir miyiz
+yazılım nedir acaba
+yazilim nedir acaba
+yazılım ne işe yarıyor
+yazilim ne ise yariyor
+yazılım ne işe yarar
+yazilim ne ise yarar
+yazılım konusunu anlatır mısın
+yazilim konusunu anlatir misin
+yazılım hakkında bilgi verir misin
+yazilim hakkinda bilgi verir misin
+yazılım kavramını açıklar mısın
+yazilim kavramini aciklar misin
+yazılım tam olarak ne demek
+yazilim tam olarak ne demek
+yazılım konusunda konuşalım
+yazilim konusunda konusalim
+yazılım öğrenmek istiyorum
+yazilim ogrenmek istiyorum
+yazılım nedir basitçe anlat
+yazilim nedir basitce anlat
+bana yazılım anlatabilir misin
+bana yazilim anlatabilir misin
+yazılım ne demek ya
+yazilim ne demek ya
+yazılım nedir kısaca açıkla
+yazilim nedir kisaca acikla
+yazılım hakkında konuşabilir miyiz
+yazilim hakkinda konusabilir miyiz
+program nedir acaba
+program ne işe yarıyor
+program ne ise yariyor
+program ne işe yarar
+program ne ise yarar
+program konusunu anlatır mısın
+program konusunu anlatir misin
+program hakkında bilgi verir misin
+program hakkinda bilgi verir misin
+program kavramını açıklar mısın
+program kavramini aciklar misin
+program tam olarak ne demek
+program konusunda konuşalım
+program konusunda konusalim
+program öğrenmek istiyorum
+program ogrenmek istiyorum
+program nedir basitçe anlat
+program nedir basitce anlat
+bana program anlatabilir misin
+program ne demek ya
+program nedir kısaca açıkla
+program nedir kisaca acikla
+program hakkında konuşabilir miyiz
+program hakkinda konusabilir miyiz
+değişken nedir acaba
+değişken ne işe yarıyor
+degisken ne ise yariyor
+degisken ne ise yarar
+değişken konusunu anlatır mısın
+degisken konusunu anlatir misin
+değişken hakkında bilgi verir misin
+degisken hakkinda bilgi verir misin
+değişken kavramını açıklar mısın
+degisken kavramini aciklar misin
+değişken tam olarak ne demek
+degisken tam olarak ne demek
+değişken konusunda konuşalım
+degisken konusunda konusalim
+değişken öğrenmek istiyorum
+degisken ogrenmek istiyorum
+değişken nedir basitçe anlat
+degisken nedir basitce anlat
+bana değişken anlatabilir misin
+bana degisken anlatabilir misin
+değişken ne demek ya
+degisken ne demek ya
+değişken nedir kısaca açıkla
+degisken nedir kisaca acikla
+değişken hakkında konuşabilir miyiz
+degisken hakkinda konusabilir miyiz
+variable nedir acaba
+variable ne işe yarıyor
+variable ne ise yariyor
+variable ne işe yarar
+variable ne ise yarar
+variable konusunu anlatır mısın
+variable konusunu anlatir misin
+variable hakkında bilgi verir misin
+variable hakkinda bilgi verir misin
+variable kavramını açıklar mısın
+variable kavramini aciklar misin
+variable tam olarak ne demek
+variable konusunda konuşalım
+variable konusunda konusalim
+variable öğrenmek istiyorum
+variable ogrenmek istiyorum
+variable nedir basitçe anlat
+variable nedir basitce anlat
+bana variable anlatabilir misin
+variable ne demek ya
+variable nedir kısaca açıkla
+variable nedir kisaca acikla
+variable hakkında konuşabilir miyiz
+variable hakkinda konusabilir miyiz
+fonksiyon nedir acaba
+fonksiyon ne işe yarıyor
+fonksiyon ne ise yariyor
+fonksiyon ne ise yarar
+fonksiyon konusunu anlatır mısın
+fonksiyon konusunu anlatir misin
+fonksiyon hakkında bilgi verir misin
+fonksiyon hakkinda bilgi verir misin
+fonksiyon kavramını açıklar mısın
+fonksiyon kavramini aciklar misin
+fonksiyon tam olarak ne demek
+fonksiyon konusunda konuşalım
+fonksiyon konusunda konusalim
+fonksiyon öğrenmek istiyorum
+fonksiyon ogrenmek istiyorum
+fonksiyon nedir basitçe anlat
+fonksiyon nedir basitce anlat
+bana fonksiyon anlatabilir misin
+fonksiyon ne demek ya
+fonksiyon nedir kısaca açıkla
+fonksiyon nedir kisaca acikla
+fonksiyon hakkında konuşabilir miyiz
+fonksiyon hakkinda konusabilir miyiz
+function nedir acaba
+function ne işe yarıyor
+function ne ise yariyor
+function ne işe yarar
+function ne ise yarar
+function konusunu anlatır mısın
+function konusunu anlatir misin
+function hakkında bilgi verir misin
+function hakkinda bilgi verir misin
+function kavramını açıklar mısın
+function kavramini aciklar misin
+function tam olarak ne demek
+function konusunda konuşalım
+function konusunda konusalim
+function öğrenmek istiyorum
+function ogrenmek istiyorum
+function nedir basitçe anlat
+function nedir basitce anlat
+bana function anlatabilir misin
+function ne demek ya
+function nedir kısaca açıkla
+function nedir kisaca acikla
+function hakkında konuşabilir miyiz
+function hakkinda konusabilir miyiz
+döngü nedir acaba
+dongu nedir acaba
+döngü ne işe yarıyor
+dongu ne ise yariyor
+dongu ne ise yarar
+döngü konusunu anlatır mısın
+dongu konusunu anlatir misin
+döngü hakkında bilgi verir misin
+dongu hakkinda bilgi verir misin
+döngü kavramını açıklar mısın
+dongu kavramini aciklar misin
+döngü tam olarak ne demek
+dongu tam olarak ne demek
+döngü konusunda konuşalım
+dongu konusunda konusalim
+döngü öğrenmek istiyorum
+dongu ogrenmek istiyorum
+döngü nedir basitçe anlat
+dongu nedir basitce anlat
+bana döngü anlatabilir misin
+bana dongu anlatabilir misin
+döngü ne demek ya
+dongu ne demek ya
+döngü nedir kısaca açıkla
+dongu nedir kisaca acikla
+döngü hakkında konuşabilir miyiz
+dongu hakkinda konusabilir miyiz
+loop nedir acaba
+loop ne işe yarıyor
+loop ne ise yariyor
+loop ne işe yarar
+loop ne ise yarar
+loop konusunu anlatır mısın
+loop konusunu anlatir misin
+loop hakkında bilgi verir misin
+loop hakkinda bilgi verir misin
+loop kavramını açıklar mısın
+loop kavramini aciklar misin
+loop tam olarak ne demek
+loop konusunda konuşalım
+loop konusunda konusalim
+loop öğrenmek istiyorum
+loop ogrenmek istiyorum
+loop nedir basitçe anlat
+loop nedir basitce anlat
+bana loop anlatabilir misin
+loop ne demek ya
+loop nedir kısaca açıkla
+loop nedir kisaca acikla
+loop hakkında konuşabilir miyiz
+loop hakkinda konusabilir miyiz
+koşul nedir acaba
+kosul nedir acaba
+koşul ne işe yarıyor
+kosul ne ise yariyor
+koşul ne işe yarar
+kosul ne ise yarar
+koşul konusunu anlatır mısın
+kosul konusunu anlatir misin
+koşul hakkında bilgi verir misin
+kosul hakkinda bilgi verir misin
+koşul kavramını açıklar mısın
+kosul kavramini aciklar misin
+koşul tam olarak ne demek
+kosul tam olarak ne demek
+koşul konusunda konuşalım
+kosul konusunda konusalim
+koşul öğrenmek istiyorum
+kosul ogrenmek istiyorum
+koşul nedir basitçe anlat
+kosul nedir basitce anlat
+bana koşul anlatabilir misin
+bana kosul anlatabilir misin
+koşul ne demek ya
+kosul ne demek ya
+koşul nedir kısaca açıkla
+kosul nedir kisaca acikla
+koşul hakkında konuşabilir miyiz
+kosul hakkinda konusabilir miyiz
+if else nedir acaba
+if else ne işe yarıyor
+if else ne ise yariyor
+if else ne işe yarar
+if else ne ise yarar
+if else konusunu anlatır mısın
+if else konusunu anlatir misin
+if else hakkında bilgi verir misin
+if else hakkinda bilgi verir misin
+if else kavramını açıklar mısın
+if else kavramini aciklar misin
+if else tam olarak ne demek
+if else konusunda konuşalım
+if else konusunda konusalim
+if else öğrenmek istiyorum
+if else ogrenmek istiyorum
+if else nedir basitçe anlat
+if else nedir basitce anlat
+bana if else anlatabilir misin
+if else ne demek ya
+if else nedir kısaca açıkla
+if else nedir kisaca acikla
+if else hakkında konuşabilir miyiz
+if else hakkinda konusabilir miyiz
+liste nedir acaba
+liste ne işe yarıyor
+liste ne ise yariyor
+liste ne işe yarar
+liste ne ise yarar
+liste konusunu anlatır mısın
+liste konusunu anlatir misin
+liste hakkında bilgi verir misin
+liste hakkinda bilgi verir misin
+liste kavramını açıklar mısın
+liste kavramini aciklar misin
+liste tam olarak ne demek
+liste konusunda konuşalım
+liste konusunda konusalim
+liste öğrenmek istiyorum
+liste ogrenmek istiyorum
+liste nedir basitçe anlat
+liste nedir basitce anlat
+bana liste anlatabilir misin
+liste ne demek ya
+liste nedir kısaca açıkla
+liste nedir kisaca acikla
+liste hakkında konuşabilir miyiz
+liste hakkinda konusabilir miyiz
+python listesi nedir acaba
+python listesi ne işe yarıyor
+python listesi ne ise yariyor
+python listesi ne işe yarar
+python listesi ne ise yarar
+python listesi konusunu anlatır mısın
+python listesi konusunu anlatir misin
+python listesi hakkında bilgi verir misin
+python listesi hakkinda bilgi verir misin
+python listesi kavramını açıklar mısın
+python listesi kavramini aciklar misin
+python listesi tam olarak ne demek
+python listesi konusunda konuşalım
+python listesi konusunda konusalim
+python listesi öğrenmek istiyorum
+python listesi ogrenmek istiyorum
+python listesi nedir basitçe anlat
+python listesi nedir basitce anlat
+bana python listesi anlatabilir misin
+python listesi ne demek ya
+python listesi nedir kısaca açıkla
+python listesi nedir kisaca acikla
+python listesi hakkında konuşabilir miyiz
+python listesi hakkinda konusabilir miyiz
+sözlük nedir acaba
+sozluk nedir acaba
+sözlük ne işe yarıyor
+sozluk ne ise yariyor
+sözlük ne işe yarar
+sozluk ne ise yarar
+sözlük konusunu anlatır mısın
+sozluk konusunu anlatir misin
+sözlük hakkında bilgi verir misin
+sozluk hakkinda bilgi verir misin
+sözlük kavramını açıklar mısın
+sozluk kavramini aciklar misin
+sözlük tam olarak ne demek
+sozluk tam olarak ne demek
+sözlük konusunda konuşalım
+sozluk konusunda konusalim
+sözlük öğrenmek istiyorum
+sozluk ogrenmek istiyorum
+sözlük nedir basitçe anlat
+sozluk nedir basitce anlat
+bana sözlük anlatabilir misin
+bana sozluk anlatabilir misin
+sözlük ne demek ya
+sozluk ne demek ya
+sözlük nedir kısaca açıkla
+sozluk nedir kisaca acikla
+sözlük hakkında konuşabilir miyiz
+sozluk hakkinda konusabilir miyiz
+python sözlüğü nedir acaba
+python sozlugu nedir acaba
+python sözlüğü ne işe yarıyor
+python sozlugu ne ise yariyor
+python sözlüğü ne işe yarar
+python sozlugu ne ise yarar
+python sözlüğü konusunu anlatır mısın
+python sozlugu konusunu anlatir misin
+python sözlüğü hakkında bilgi verir misin
+python sozlugu hakkinda bilgi verir misin
+python sözlüğü kavramını açıklar mısın
+python sozlugu kavramini aciklar misin
+python sözlüğü tam olarak ne demek
+python sozlugu tam olarak ne demek
+python sözlüğü konusunda konuşalım
+python sozlugu konusunda konusalim
+python sözlüğü öğrenmek istiyorum
+python sozlugu ogrenmek istiyorum
+python sözlüğü nedir basitçe anlat
+python sozlugu nedir basitce anlat
+bana python sözlüğü anlatabilir misin
+bana python sozlugu anlatabilir misin
+python sözlüğü ne demek ya
+python sozlugu ne demek ya
+python sözlüğü nedir kısaca açıkla
+python sozlugu nedir kisaca acikla
+python sözlüğü hakkında konuşabilir miyiz
+python sozlugu hakkinda konusabilir miyiz
+dict nedir acaba
+dict ne işe yarıyor
+dict ne ise yariyor
+dict ne işe yarar
+dict ne ise yarar
+dict konusunu anlatır mısın
+dict konusunu anlatir misin
+dict hakkında bilgi verir misin
+dict hakkinda bilgi verir misin
+dict kavramını açıklar mısın
+dict kavramini aciklar misin
+dict tam olarak ne demek
+dict konusunda konuşalım
+dict konusunda konusalim
+dict öğrenmek istiyorum
+dict ogrenmek istiyorum
+dict nedir basitçe anlat
+dict nedir basitce anlat
+bana dict anlatabilir misin
+dict ne demek ya
+dict nedir kısaca açıkla
+dict nedir kisaca acikla
+dict hakkında konuşabilir miyiz
+dict hakkinda konusabilir miyiz
+string nedir acaba
+string ne işe yarıyor
+string ne ise yariyor
+string ne işe yarar
+string ne ise yarar
+string konusunu anlatır mısın
+string konusunu anlatir misin
+string hakkında bilgi verir misin
+string hakkinda bilgi verir misin
+string kavramını açıklar mısın
+string kavramini aciklar misin
+string tam olarak ne demek
+string konusunda konuşalım
+string konusunda konusalim
+string öğrenmek istiyorum
+string ogrenmek istiyorum
+string nedir basitçe anlat
+string nedir basitce anlat
+bana string anlatabilir misin
+string ne demek ya
+string nedir kısaca açıkla
+string nedir kisaca acikla
+string hakkında konuşabilir miyiz
+string hakkinda konusabilir miyiz
+metin türü nedir acaba
+metin turu nedir acaba
+metin türü ne işe yarıyor
+metin turu ne ise yariyor
+metin türü ne işe yarar
+metin turu ne ise yarar
+metin türü konusunu anlatır mısın
+metin turu konusunu anlatir misin
+metin türü hakkında bilgi verir misin
+metin turu hakkinda bilgi verir misin
+metin türü kavramını açıklar mısın
+metin turu kavramini aciklar misin
+metin türü tam olarak ne demek
+metin turu tam olarak ne demek
+metin türü konusunda konuşalım
+metin turu konusunda konusalim
+metin türü öğrenmek istiyorum
+metin turu ogrenmek istiyorum
+metin türü nedir basitçe anlat
+metin turu nedir basitce anlat
+bana metin türü anlatabilir misin
+bana metin turu anlatabilir misin
+metin türü ne demek ya
+metin turu ne demek ya
+metin türü nedir kısaca açıkla
+metin turu nedir kisaca acikla
+metin türü hakkında konuşabilir miyiz
+metin turu hakkinda konusabilir miyiz
+str nedir acaba
+str ne işe yarıyor
+str ne ise yariyor
+str ne işe yarar
+str ne ise yarar
+str konusunu anlatır mısın
+str konusunu anlatir misin
+str hakkında bilgi verir misin
+str hakkinda bilgi verir misin
+str kavramını açıklar mısın
+str kavramini aciklar misin
+str tam olarak ne demek
+str konusunda konuşalım
+str konusunda konusalim
+str öğrenmek istiyorum
+str ogrenmek istiyorum
+str nedir basitçe anlat
+str nedir basitce anlat
+bana str anlatabilir misin
+str ne demek ya
+str nedir kısaca açıkla
+str nedir kisaca acikla
+str hakkında konuşabilir miyiz
+str hakkinda konusabilir miyiz
+boolean nedir acaba
+boolean ne işe yarıyor
+boolean ne ise yariyor
+boolean ne işe yarar
+boolean ne ise yarar
+boolean konusunu anlatır mısın
+boolean konusunu anlatir misin
+boolean hakkında bilgi verir misin
+boolean hakkinda bilgi verir misin
+boolean kavramını açıklar mısın
+boolean kavramini aciklar misin
+boolean tam olarak ne demek
+boolean konusunda konuşalım
+boolean konusunda konusalim
+boolean öğrenmek istiyorum
+boolean ogrenmek istiyorum
+boolean nedir basitçe anlat
+boolean nedir basitce anlat
+bana boolean anlatabilir misin
+boolean ne demek ya
+boolean nedir kısaca açıkla
+boolean nedir kisaca acikla
+boolean hakkında konuşabilir miyiz
+boolean hakkinda konusabilir miyiz
+bool nedir acaba
+bool ne işe yarıyor
+bool ne ise yariyor
+bool ne işe yarar
+bool ne ise yarar
+bool konusunu anlatır mısın
+bool konusunu anlatir misin
+bool hakkında bilgi verir misin
+bool hakkinda bilgi verir misin
+bool kavramını açıklar mısın
+bool kavramini aciklar misin
+bool tam olarak ne demek
+bool konusunda konuşalım
+bool konusunda konusalim
+bool öğrenmek istiyorum
+bool ogrenmek istiyorum
+bool nedir basitçe anlat
+bool nedir basitce anlat
+bana bool anlatabilir misin
+bool ne demek ya
+bool nedir kısaca açıkla
+bool nedir kisaca acikla
+bool hakkında konuşabilir miyiz
+bool hakkinda konusabilir miyiz
+true false nedir acaba
+true false ne işe yarıyor
+true false ne ise yariyor
+true false ne işe yarar
+true false ne ise yarar
+true false konusunu anlatır mısın
+true false konusunu anlatir misin
+true false hakkında bilgi verir misin
+true false hakkinda bilgi verir misin
+true false kavramını açıklar mısın
+true false kavramini aciklar misin
+true false tam olarak ne demek
+true false konusunda konuşalım
+true false konusunda konusalim
+true false öğrenmek istiyorum
+true false ogrenmek istiyorum
+true false nedir basitçe anlat
+true false nedir basitce anlat
+bana true false anlatabilir misin
+true false ne demek ya
+true false nedir kısaca açıkla
+true false nedir kisaca acikla
+true false hakkında konuşabilir miyiz
+true false hakkinda konusabilir miyiz
+hata ayıklama nedir acaba
+hata ayiklama nedir acaba
+hata ayıklama ne işe yarıyor
+hata ayiklama ne ise yariyor
+hata ayıklama ne işe yarar
+hata ayiklama ne ise yarar
+hata ayıklama konusunu anlatır mısın
+hata ayiklama konusunu anlatir misin
+hata ayıklama hakkında bilgi verir misin
+hata ayiklama hakkinda bilgi verir misin
+hata ayıklama kavramını açıklar mısın
+hata ayiklama kavramini aciklar misin
+hata ayıklama tam olarak ne demek
+hata ayiklama tam olarak ne demek
+hata ayıklama konusunda konuşalım
+hata ayiklama konusunda konusalim
+hata ayıklama öğrenmek istiyorum
+hata ayiklama ogrenmek istiyorum
+hata ayıklama nedir basitçe anlat
+hata ayiklama nedir basitce anlat
+bana hata ayıklama anlatabilir misin
+bana hata ayiklama anlatabilir misin
+hata ayıklama ne demek ya
+hata ayiklama ne demek ya
+hata ayıklama nedir kısaca açıkla
+hata ayiklama nedir kisaca acikla
+hata ayıklama hakkında konuşabilir miyiz
+hata ayiklama hakkinda konusabilir miyiz
+debug nedir acaba
+debug ne işe yarıyor
+debug ne ise yariyor
+debug ne işe yarar
+debug ne ise yarar
+debug konusunu anlatır mısın
+debug konusunu anlatir misin
+debug hakkında bilgi verir misin
+debug hakkinda bilgi verir misin
+debug kavramını açıklar mısın
+debug kavramini aciklar misin
+debug tam olarak ne demek
+debug konusunda konuşalım
+debug konusunda konusalim
+debug öğrenmek istiyorum
+debug ogrenmek istiyorum
+debug nedir basitçe anlat
+debug nedir basitce anlat
+bana debug anlatabilir misin
+debug ne demek ya
+debug nedir kısaca açıkla
+debug nedir kisaca acikla
+debug hakkında konuşabilir miyiz
+debug hakkinda konusabilir miyiz
+debugging nedir acaba
+debugging ne işe yarıyor
+debugging ne ise yariyor
+debugging ne işe yarar
+debugging ne ise yarar
+debugging konusunu anlatır mısın
+debugging konusunu anlatir misin
+debugging hakkında bilgi verir misin
+debugging hakkinda bilgi verir misin
+debugging kavramını açıklar mısın
+debugging kavramini aciklar misin
+debugging tam olarak ne demek
+debugging konusunda konuşalım
+debugging konusunda konusalim
+debugging öğrenmek istiyorum
+debugging ogrenmek istiyorum
+debugging nedir basitçe anlat
+debugging nedir basitce anlat
+bana debugging anlatabilir misin
+debugging ne demek ya
+debugging nedir kısaca açıkla
+debugging nedir kisaca acikla
+debugging hakkında konuşabilir miyiz
+debugging hakkinda konusabilir miyiz
+birim testi nedir acaba
+birim testi ne işe yarıyor
+birim testi ne ise yariyor
+birim testi ne işe yarar
+birim testi ne ise yarar
+birim testi konusunu anlatır mısın
+birim testi konusunu anlatir misin
+birim testi hakkında bilgi verir misin
+birim testi hakkinda bilgi verir misin
+birim testi kavramını açıklar mısın
+birim testi kavramini aciklar misin
+birim testi tam olarak ne demek
+birim testi konusunda konuşalım
+birim testi konusunda konusalim
+birim testi öğrenmek istiyorum
+birim testi ogrenmek istiyorum
+birim testi nedir basitçe anlat
+birim testi nedir basitce anlat
+bana birim testi anlatabilir misin
+birim testi ne demek ya
+birim testi nedir kısaca açıkla
+birim testi nedir kisaca acikla
+birim testi hakkında konuşabilir miyiz
+birim testi hakkinda konusabilir miyiz
+unit test nedir acaba
+unit test ne işe yarıyor
+unit test ne ise yariyor
+unit test ne işe yarar
+unit test ne ise yarar
+unit test konusunu anlatır mısın
+unit test konusunu anlatir misin
+unit test hakkında bilgi verir misin
+unit test hakkinda bilgi verir misin
+unit test kavramını açıklar mısın
+unit test kavramini aciklar misin
+unit test tam olarak ne demek
+unit test konusunda konuşalım
+unit test konusunda konusalim
+unit test öğrenmek istiyorum
+unit test ogrenmek istiyorum
+unit test nedir basitçe anlat
+unit test nedir basitce anlat
+bana unit test anlatabilir misin
+unit test ne demek ya
+unit test nedir kısaca açıkla
+unit test nedir kisaca acikla
+unit test hakkında konuşabilir miyiz
+unit test hakkinda konusabilir miyiz
+algoritma nedir acaba
+algoritma ne işe yarıyor
+algoritma ne ise yariyor
+algoritma ne işe yarar
+algoritma ne ise yarar
+algoritma konusunu anlatır mısın
+algoritma konusunu anlatir misin
+algoritma hakkında bilgi verir misin
+algoritma hakkinda bilgi verir misin
+algoritma kavramını açıklar mısın
+algoritma kavramini aciklar misin
+algoritma tam olarak ne demek
+algoritma konusunda konuşalım
+algoritma konusunda konusalim
+algoritma öğrenmek istiyorum
+algoritma ogrenmek istiyorum
+algoritma nedir basitçe anlat
+algoritma nedir basitce anlat
+bana algoritma anlatabilir misin
+algoritma ne demek ya
+algoritma nedir kısaca açıkla
+algoritma nedir kisaca acikla
+algoritma hakkında konuşabilir miyiz
+algoritma hakkinda konusabilir miyiz
+api nedir acaba
+api ne işe yarıyor
+api ne ise yariyor
+api ne ise yarar
+api konusunu anlatır mısın
+api konusunu anlatir misin
+api hakkında bilgi verir misin
+api hakkinda bilgi verir misin
+api kavramını açıklar mısın
+api kavramini aciklar misin
+api tam olarak ne demek
+api konusunda konuşalım
+api konusunda konusalim
+api öğrenmek istiyorum
+api ogrenmek istiyorum
+api nedir basitçe anlat
+api nedir basitce anlat
+bana api anlatabilir misin
+api ne demek ya
+api nedir kısaca açıkla
+api nedir kisaca acikla
+api hakkında konuşabilir miyiz
+api hakkinda konusabilir miyiz
+json nedir acaba
+json ne işe yarıyor
+json ne ise yariyor
+json ne işe yarar
+json ne ise yarar
+json konusunu anlatır mısın
+json konusunu anlatir misin
+json hakkında bilgi verir misin
+json hakkinda bilgi verir misin
+json kavramını açıklar mısın
+json kavramini aciklar misin
+json tam olarak ne demek
+json konusunda konuşalım
+json konusunda konusalim
+json öğrenmek istiyorum
+json ogrenmek istiyorum
+json nedir basitçe anlat
+json nedir basitce anlat
+bana json anlatabilir misin
+json ne demek ya
+json nedir kısaca açıkla
+json nedir kisaca acikla
+json hakkında konuşabilir miyiz
+json hakkinda konusabilir miyiz
+html nedir acaba
+html ne işe yarıyor
+html ne ise yariyor
+html ne ise yarar
+html konusunu anlatır mısın
+html konusunu anlatir misin
+html hakkında bilgi verir misin
+html hakkinda bilgi verir misin
+html kavramını açıklar mısın
+html kavramini aciklar misin
+html tam olarak ne demek
+html konusunda konuşalım
+html konusunda konusalim
+html öğrenmek istiyorum
+html ogrenmek istiyorum
+html nedir basitçe anlat
+html nedir basitce anlat
+bana html anlatabilir misin
+html ne demek ya
+html nedir kısaca açıkla
+html nedir kisaca acikla
+html hakkında konuşabilir miyiz
+html hakkinda konusabilir miyiz
+web sayfasının yapısı nedir acaba
+web sayfasinin yapisi nedir acaba
+web sayfasının yapısı ne işe yarıyor
+web sayfasinin yapisi ne ise yariyor
+web sayfasının yapısı ne işe yarar
+web sayfasinin yapisi ne ise yarar
+web sayfasının yapısı konusunu anlatır mısın
+web sayfasinin yapisi konusunu anlatir misin
+web sayfasının yapısı hakkında bilgi verir misin
+web sayfasinin yapisi hakkinda bilgi verir misin
+web sayfasının yapısı kavramını açıklar mısın
+web sayfasinin yapisi kavramini aciklar misin
+web sayfasının yapısı tam olarak ne demek
+web sayfasinin yapisi tam olarak ne demek
+web sayfasının yapısı konusunda konuşalım
+web sayfasinin yapisi konusunda konusalim
+web sayfasının yapısı öğrenmek istiyorum
+web sayfasinin yapisi ogrenmek istiyorum
+web sayfasının yapısı nedir basitçe anlat
+web sayfasinin yapisi nedir basitce anlat
+bana web sayfasının yapısı anlatabilir misin
+bana web sayfasinin yapisi anlatabilir misin
+web sayfasının yapısı ne demek ya
+web sayfasinin yapisi ne demek ya
+web sayfasının yapısı nedir kısaca açıkla
+web sayfasinin yapisi nedir kisaca acikla
+web sayfasının yapısı hakkında konuşabilir miyiz
+web sayfasinin yapisi hakkinda konusabilir miyiz
+css nedir acaba
+css ne işe yarıyor
+css ne ise yariyor
+css ne ise yarar
+css konusunu anlatır mısın
+css konusunu anlatir misin
+css hakkında bilgi verir misin
+css hakkinda bilgi verir misin
+css kavramını açıklar mısın
+css kavramini aciklar misin
+css tam olarak ne demek
+css konusunda konuşalım
+css konusunda konusalim
+css öğrenmek istiyorum
+css ogrenmek istiyorum
+css nedir basitçe anlat
+css nedir basitce anlat
+bana css anlatabilir misin
+css ne demek ya
+css nedir kısaca açıkla
+css nedir kisaca acikla
+css hakkında konuşabilir miyiz
+css hakkinda konusabilir miyiz
+javascript nedir acaba
+javascript ne işe yarıyor
+javascript ne ise yariyor
+javascript ne ise yarar
+javascript konusunu anlatır mısın
+javascript konusunu anlatir misin
+javascript hakkında bilgi verir misin
+javascript hakkinda bilgi verir misin
+javascript kavramını açıklar mısın
+javascript kavramini aciklar misin
+javascript tam olarak ne demek
+javascript konusunda konuşalım
+javascript konusunda konusalim
+javascript öğrenmek istiyorum
+javascript ogrenmek istiyorum
+javascript nedir basitçe anlat
+javascript nedir basitce anlat
+bana javascript anlatabilir misin
+javascript ne demek ya
+javascript nedir kısaca açıkla
+javascript nedir kisaca acikla
+javascript hakkında konuşabilir miyiz
+javascript hakkinda konusabilir miyiz
+python nedir acaba
+python ne işe yarıyor
+python ne ise yariyor
+python ne ise yarar
+python konusunu anlatır mısın
+python konusunu anlatir misin
+python hakkında bilgi verir misin
+python hakkinda bilgi verir misin
+python kavramını açıklar mısın
+python kavramini aciklar misin
+python tam olarak ne demek
+python konusunda konuşalım
+python konusunda konusalim
+python öğrenmek istiyorum
+python ogrenmek istiyorum
+python nedir basitçe anlat
+python nedir basitce anlat
+bana python anlatabilir misin
+python ne demek ya
+python nedir kısaca açıkla
+python nedir kisaca acikla
+python hakkında konuşabilir miyiz
+python hakkinda konusabilir miyiz
+git nedir acaba
+git ne işe yarıyor
+git ne ise yariyor
+git ne ise yarar
+git konusunu anlatır mısın
+git konusunu anlatir misin
+git hakkında bilgi verir misin
+git hakkinda bilgi verir misin
+git kavramını açıklar mısın
+git kavramini aciklar misin
+git tam olarak ne demek
+git konusunda konuşalım
+git konusunda konusalim
+git öğrenmek istiyorum
+git ogrenmek istiyorum
+git nedir basitçe anlat
+git nedir basitce anlat
+bana git anlatabilir misin
+git ne demek ya
+git nedir kısaca açıkla
+git nedir kisaca acikla
+git hakkında konuşabilir miyiz
+sürüm kontrolü nedir acaba
+surum kontrolu nedir acaba
+sürüm kontrolü ne işe yarıyor
+surum kontrolu ne ise yariyor
+sürüm kontrolü ne işe yarar
+surum kontrolu ne ise yarar
+sürüm kontrolü konusunu anlatır mısın
+surum kontrolu konusunu anlatir misin
+sürüm kontrolü hakkında bilgi verir misin
+surum kontrolu hakkinda bilgi verir misin
+sürüm kontrolü kavramını açıklar mısın
+surum kontrolu kavramini aciklar misin
+sürüm kontrolü tam olarak ne demek
+surum kontrolu tam olarak ne demek
+sürüm kontrolü konusunda konuşalım
+surum kontrolu konusunda konusalim
+sürüm kontrolü öğrenmek istiyorum
+surum kontrolu ogrenmek istiyorum
+sürüm kontrolü nedir basitçe anlat
+surum kontrolu nedir basitce anlat
+bana sürüm kontrolü anlatabilir misin
+bana surum kontrolu anlatabilir misin
+sürüm kontrolü ne demek ya
+surum kontrolu ne demek ya
+sürüm kontrolü nedir kısaca açıkla
+surum kontrolu nedir kisaca acikla
+sürüm kontrolü hakkında konuşabilir miyiz
+surum kontrolu hakkinda konusabilir miyiz
+veritabanı nedir acaba
+veritabani nedir acaba
+veritabanı ne işe yarıyor
+veritabani ne ise yariyor
+veritabani ne ise yarar
+veritabanı konusunu anlatır mısın
+veritabani konusunu anlatir misin
+veritabanı hakkında bilgi verir misin
+veritabani hakkinda bilgi verir misin
+veritabanı kavramını açıklar mısın
+veritabani kavramini aciklar misin
+veritabanı tam olarak ne demek
+veritabani tam olarak ne demek
+veritabanı konusunda konuşalım
+veritabani konusunda konusalim
+veritabanı öğrenmek istiyorum
+veritabani ogrenmek istiyorum
+veritabanı nedir basitçe anlat
+veritabani nedir basitce anlat
+bana veritabanı anlatabilir misin
+bana veritabani anlatabilir misin
+veritabanı ne demek ya
+veritabani ne demek ya
+veritabanı nedir kısaca açıkla
+veritabani nedir kisaca acikla
+veritabanı hakkında konuşabilir miyiz
+veritabani hakkinda konusabilir miyiz
+database nedir acaba
+database ne işe yarıyor
+database ne ise yariyor
+database ne işe yarar
+database ne ise yarar
+database konusunu anlatır mısın
+database konusunu anlatir misin
+database hakkında bilgi verir misin
+database hakkinda bilgi verir misin
+database kavramını açıklar mısın
+database kavramini aciklar misin
+database tam olarak ne demek
+database konusunda konuşalım
+database konusunda konusalim
+database öğrenmek istiyorum
+database ogrenmek istiyorum
+database nedir basitçe anlat
+database nedir basitce anlat
+bana database anlatabilir misin
+database ne demek ya
+database nedir kısaca açıkla
+database nedir kisaca acikla
+database hakkında konuşabilir miyiz
+database hakkinda konusabilir miyiz
+sql nedir acaba
+sql ne işe yarıyor
+sql ne ise yariyor
+sql ne ise yarar
+sql konusunu anlatır mısın
+sql konusunu anlatir misin
+sql hakkında bilgi verir misin
+sql hakkinda bilgi verir misin
+sql kavramını açıklar mısın
+sql kavramini aciklar misin
+sql tam olarak ne demek
+sql konusunda konuşalım
+sql konusunda konusalim
+sql öğrenmek istiyorum
+sql ogrenmek istiyorum
+sql nedir basitçe anlat
+sql nedir basitce anlat
+bana sql anlatabilir misin
+sql ne demek ya
+sql nedir kısaca açıkla
+sql nedir kisaca acikla
+sql hakkında konuşabilir miyiz
+sql hakkinda konusabilir miyiz
+yorum satırı nedir acaba
+yorum satiri nedir acaba
+yorum satırı ne işe yarıyor
+yorum satiri ne ise yariyor
+yorum satırı ne işe yarar
+yorum satiri ne ise yarar
+yorum satırı konusunu anlatır mısın
+yorum satiri konusunu anlatir misin
+yorum satırı hakkında bilgi verir misin
+yorum satiri hakkinda bilgi verir misin
+yorum satırı kavramını açıklar mısın
+yorum satiri kavramini aciklar misin
+yorum satırı tam olarak ne demek
+yorum satiri tam olarak ne demek
+yorum satırı konusunda konuşalım
+yorum satiri konusunda konusalim
+yorum satırı öğrenmek istiyorum
+yorum satiri ogrenmek istiyorum
+yorum satırı nedir basitçe anlat
+yorum satiri nedir basitce anlat
+bana yorum satırı anlatabilir misin
+bana yorum satiri anlatabilir misin
+yorum satırı ne demek ya
+yorum satiri ne demek ya
+yorum satırı nedir kısaca açıkla
+yorum satiri nedir kisaca acikla
+yorum satırı hakkında konuşabilir miyiz
+yorum satiri hakkinda konusabilir miyiz
+sıfıra bölme nedir acaba
+sifira bolme nedir acaba
+sıfıra bölme ne işe yarıyor
+sifira bolme ne ise yariyor
+sıfıra bölme ne işe yarar
+sifira bolme ne ise yarar
+sıfıra bölme konusunu anlatır mısın
+sifira bolme konusunu anlatir misin
+sıfıra bölme hakkında bilgi verir misin
+sifira bolme hakkinda bilgi verir misin
+sıfıra bölme kavramını açıklar mısın
+sifira bolme kavramini aciklar misin
+sıfıra bölme tam olarak ne demek
+sifira bolme tam olarak ne demek
+sıfıra bölme konusunda konuşalım
+sifira bolme konusunda konusalim
+sıfıra bölme öğrenmek istiyorum
+sifira bolme ogrenmek istiyorum
+sıfıra bölme nedir basitçe anlat
+sifira bolme nedir basitce anlat
+bana sıfıra bölme anlatabilir misin
+bana sifira bolme anlatabilir misin
+sıfıra bölme ne demek ya
+sifira bolme ne demek ya
+sıfıra bölme nedir kısaca açıkla
+sifira bolme nedir kisaca acikla
+sıfıra bölme hakkında konuşabilir miyiz
+sifira bolme hakkinda konusabilir miyiz
+int ve float farkı nedir acaba
+int ve float farki nedir acaba
+int ve float farkı ne işe yarıyor
+int ve float farki ne ise yariyor
+int ve float farkı ne işe yarar
+int ve float farki ne ise yarar
+int ve float farkı konusunu anlatır mısın
+int ve float farki konusunu anlatir misin
+int ve float farkı hakkında bilgi verir misin
+int ve float farki hakkinda bilgi verir misin
+int ve float farkı kavramını açıklar mısın
+int ve float farki kavramini aciklar misin
+int ve float farkı tam olarak ne demek
+int ve float farki tam olarak ne demek
+int ve float farkı konusunda konuşalım
+int ve float farki konusunda konusalim
+int ve float farkı öğrenmek istiyorum
+int ve float farki ogrenmek istiyorum
+int ve float farkı nedir basitçe anlat
+int ve float farki nedir basitce anlat
+bana int ve float farkı anlatabilir misin
+bana int ve float farki anlatabilir misin
+int ve float farkı ne demek ya
+int ve float farki ne demek ya
+int ve float farkı nedir kısaca açıkla
+int ve float farki nedir kisaca acikla
+int ve float farkı hakkında konuşabilir miyiz
+int ve float farki hakkinda konusabilir miyiz
+tam sayı ve ondalıklı sayı farkı nedir acaba
+tam sayi ve ondalikli sayi farki nedir acaba
+tam sayı ve ondalıklı sayı farkı ne işe yarıyor
+tam sayi ve ondalikli sayi farki ne ise yariyor
+tam sayı ve ondalıklı sayı farkı ne işe yarar
+tam sayi ve ondalikli sayi farki ne ise yarar
+tam sayı ve ondalıklı sayı farkı konusunu anlatır mısın
+tam sayi ve ondalikli sayi farki konusunu anlatir misin
+tam sayı ve ondalıklı sayı farkı hakkında bilgi verir misin
+tam sayi ve ondalikli sayi farki hakkinda bilgi verir misin
+tam sayı ve ondalıklı sayı farkı kavramını açıklar mısın
+tam sayi ve ondalikli sayi farki kavramini aciklar misin
+tam sayı ve ondalıklı sayı farkı tam olarak ne demek
+tam sayi ve ondalikli sayi farki tam olarak ne demek
+tam sayı ve ondalıklı sayı farkı konusunda konuşalım
+tam sayi ve ondalikli sayi farki konusunda konusalim
+tam sayı ve ondalıklı sayı farkı öğrenmek istiyorum
+tam sayi ve ondalikli sayi farki ogrenmek istiyorum
+tam sayı ve ondalıklı sayı farkı nedir basitçe anlat
+tam sayi ve ondalikli sayi farki nedir basitce anlat
+bana tam sayı ve ondalıklı sayı farkı anlatabilir misin
+bana tam sayi ve ondalikli sayi farki anlatabilir misin
+tam sayı ve ondalıklı sayı farkı ne demek ya
+tam sayi ve ondalikli sayi farki ne demek ya
+tam sayı ve ondalıklı sayı farkı nedir kısaca açıkla
+tam sayi ve ondalikli sayi farki nedir kisaca acikla
+tam sayı ve ondalıklı sayı farkı hakkında konuşabilir miyiz
+tam sayi ve ondalikli sayi farki hakkinda konusabilir miyiz
+eşittir ve çift eşittir farkı nedir acaba
+esittir ve cift esittir farki nedir acaba
+eşittir ve çift eşittir farkı ne işe yarıyor
+esittir ve cift esittir farki ne ise yariyor
+eşittir ve çift eşittir farkı ne işe yarar
+esittir ve cift esittir farki ne ise yarar
+eşittir ve çift eşittir farkı konusunu anlatır mısın
+esittir ve cift esittir farki konusunu anlatir misin
+eşittir ve çift eşittir farkı hakkında bilgi verir misin
+esittir ve cift esittir farki hakkinda bilgi verir misin
+eşittir ve çift eşittir farkı kavramını açıklar mısın
+esittir ve cift esittir farki kavramini aciklar misin
+eşittir ve çift eşittir farkı tam olarak ne demek
+esittir ve cift esittir farki tam olarak ne demek
+eşittir ve çift eşittir farkı konusunda konuşalım
+esittir ve cift esittir farki konusunda konusalim
+eşittir ve çift eşittir farkı öğrenmek istiyorum
+esittir ve cift esittir farki ogrenmek istiyorum
+eşittir ve çift eşittir farkı nedir basitçe anlat
+esittir ve cift esittir farki nedir basitce anlat
+bana eşittir ve çift eşittir farkı anlatabilir misin
+bana esittir ve cift esittir farki anlatabilir misin
+eşittir ve çift eşittir farkı ne demek ya
+esittir ve cift esittir farki ne demek ya
+eşittir ve çift eşittir farkı nedir kısaca açıkla
+esittir ve cift esittir farki nedir kisaca acikla
+eşittir ve çift eşittir farkı hakkında konuşabilir miyiz
+esittir ve cift esittir farki hakkinda konusabilir miyiz
+değişken için daha sade açıklama
+değişken için örnek ver
+değişken örnekle anlat
+degisken icin daha sade aciklama
+fonksiyon için daha sade açıklama
+fonksiyon için örnek ver
+fonksiyon örnekle anlat
+fonksiyon icin daha sade aciklama
+döngü için daha sade açıklama
+döngü için örnek ver
+döngü örnekle anlat
+dongu icin daha sade aciklama
+liste için daha sade açıklama
+liste için örnek ver
+liste örnekle anlat
+liste icin daha sade aciklama
+json için daha sade açıklama
+json için örnek ver
+json örnekle anlat
+json icin daha sade aciklama
+css için daha sade açıklama
+css için örnek ver
+css örnekle anlat
+css icin daha sade aciklama
+html için daha sade açıklama
+html için örnek ver
+html örnekle anlat
+html icin daha sade aciklama
+git için daha sade açıklama
+git için örnek ver
+git örnekle anlat
+git icin daha sade aciklama
+api için daha sade açıklama
+api için örnek ver
+api örnekle anlat
+api icin daha sade aciklama
+python için daha sade açıklama
+python için örnek ver
+python örnekle anlat
+python icin daha sade aciklama
+cok yoruldum
+çok yoruldum ya
+cok yoruldum ya
+terra çok yoruldum
+terra cok yoruldum
+bugün yorgunum
+bugun yorgunum
+bugün yorgunum ya
+bugun yorgunum ya
+terra bugün yorgunum
+terra bugun yorgunum
+yorgun hissediyorum
+yorgun hissediyorum ya
+terra yorgun hissediyorum
+ne yapacağımı bilmiyorum
+ne yapacagimi bilmiyorum
+ne yapacağımı bilmiyorum ya
+ne yapacagimi bilmiyorum ya
+terra ne yapacağımı bilmiyorum
+terra ne yapacagimi bilmiyorum
+aklıma bir şey gelmiyor
+aklima bir sey gelmiyor
+aklıma bir şey gelmiyor ya
+aklima bir sey gelmiyor ya
+terra aklıma bir şey gelmiyor
+terra aklima bir sey gelmiyor
+yapacak bir şey bulamadım
+yapacak bir sey bulamadim
+yapacak bir şey bulamadım ya
+yapacak bir sey bulamadim ya
+terra yapacak bir şey bulamadım
+terra yapacak bir sey bulamadim
+bir şey öğrenmek istiyorum
+bir sey ogrenmek istiyorum
+bir şey öğrenmek istiyorum ya
+bir sey ogrenmek istiyorum ya
+terra bir şey öğrenmek istiyorum
+terra bir sey ogrenmek istiyorum
+öğrenmeyi seçiyorum
+ogrenmeyi seciyorum
+öğrenmeyi seçiyorum ya
+ogrenmeyi seciyorum ya
+terra öğrenmeyi seçiyorum
+terra ogrenmeyi seciyorum
+yeni bir şey öğrenelim
+yeni bir sey ogrenelim
+yeni bir şey öğrenelim ya
+yeni bir sey ogrenelim ya
+terra yeni bir şey öğrenelim
+terra yeni bir sey ogrenelim
+dinlenmek istiyorum
+dinlenmek istiyorum ya
+terra dinlenmek istiyorum
+dinlenmeyi seçiyorum
+dinlenmeyi seciyorum
+dinlenmeyi seçiyorum ya
+dinlenmeyi seciyorum ya
+terra dinlenmeyi seçiyorum
+terra dinlenmeyi seciyorum
+biraz mola vereceğim
+biraz mola verecegim
+biraz mola vereceğim ya
+biraz mola verecegim ya
+terra biraz mola vereceğim
+terra biraz mola verecegim
+küçük bir şey üretmek istiyorum
+kucuk bir sey uretmek istiyorum
+küçük bir şey üretmek istiyorum ya
+kucuk bir sey uretmek istiyorum ya
+terra küçük bir şey üretmek istiyorum
+terra kucuk bir sey uretmek istiyorum
+üretmeyi seçiyorum
+uretmeyi seciyorum
+üretmeyi seçiyorum ya
+uretmeyi seciyorum ya
+terra üretmeyi seçiyorum
+terra uretmeyi seciyorum
+küçük proje yapalım
+kucuk proje yapalim
+küçük proje yapalım ya
+kucuk proje yapalim ya
+terra küçük proje yapalım
+terra kucuk proje yapalim
+başlamak zor geliyor
+baslamak zor geliyor
+başlamak zor geliyor ya
+baslamak zor geliyor ya
+terra başlamak zor geliyor
+terra baslamak zor geliyor
+bir türlü başlayamıyorum
+bir turlu baslayamiyorum
+bir türlü başlayamıyorum ya
+bir turlu baslayamiyorum ya
+terra bir türlü başlayamıyorum
+terra bir turlu baslayamiyorum
+işe başlayamadım
+ise baslayamadim
+işe başlayamadım ya
+ise baslayamadim ya
+terra işe başlayamadım
+terra ise baslayamadim
+ders çalışma planı yap
+ders calisma plani yap
+ders çalışma planı yap ya
+ders calisma plani yap ya
+terra ders çalışma planı yap
+terra ders calisma plani yap
+nasıl ders çalışayım
+nasil ders calisayim
+nasıl ders çalışayım ya
+nasil ders calisayim ya
+terra nasıl ders çalışayım
+terra nasil ders calisayim
+ders çalışmam gerekiyor
+ders calismam gerekiyor
+ders çalışmam gerekiyor ya
+ders calismam gerekiyor ya
+terra ders çalışmam gerekiyor
+terra ders calismam gerekiyor
+projemi nasıl böleyim
+projemi nasil boleyim
+projemi nasıl böleyim ya
+projemi nasil boleyim ya
+terra projemi nasıl böleyim
+terra projemi nasil boleyim
+projeyi küçük parçalara ayır
+projeyi kucuk parcalara ayir
+projeyi küçük parçalara ayır ya
+projeyi kucuk parcalara ayir ya
+terra projeyi küçük parçalara ayır
+terra projeyi kucuk parcalara ayir
+büyük projeye nasıl başlanır
+buyuk projeye nasil baslanir
+büyük projeye nasıl başlanır ya
+buyuk projeye nasil baslanir ya
+terra büyük projeye nasıl başlanır
+terra buyuk projeye nasil baslanir
+kod çalışmıyor
+kod calismiyor
+kod çalışmıyor ya
+kod calismiyor ya
+terra kod çalışmıyor
+terra kod calismiyor
+kodum hata veriyor
+kodum hata veriyor ya
+terra kodum hata veriyor
+program açılmıyor
+program acilmiyor
+program açılmıyor ya
+program acilmiyor ya
+terra program açılmıyor
+terra program acilmiyor
+hata mesajını nasıl okuyayım
+hata mesajini nasil okuyayim
+hata mesajını nasıl okuyayım ya
+hata mesajini nasil okuyayim ya
+terra hata mesajını nasıl okuyayım
+terra hata mesajini nasil okuyayim
+hata mesajı nereden okunur
+hata mesaji nereden okunur
+hata mesajı nereden okunur ya
+hata mesaji nereden okunur ya
+terra hata mesajı nereden okunur
+terra hata mesaji nereden okunur
+traceback nasıl okunur
+traceback nasil okunur
+traceback nasıl okunur ya
+traceback nasil okunur ya
+terra traceback nasıl okunur
+terra traceback nasil okunur
+kod çalıştı
+kod calisti
+kod çalıştı ya
+kod calisti ya
+terra kod çalıştı
+terra kod calisti
+sonunda çalışıyor
+sonunda calisiyor
+sonunda çalışıyor ya
+sonunda calisiyor ya
+terra sonunda çalışıyor
+terra sonunda calisiyor
+hatayı çözdüm
+hatayi cozdum
+hatayı çözdüm ya
+hatayi cozdum ya
+terra hatayı çözdüm
+terra hatayi cozdum
+yanlış anladın
+yanlis anladin
+yanlış anladın ya
+yanlis anladin ya
+terra yanlış anladın
+terra yanlis anladin
+onu demek istemedim
+onu demek istemedim ya
+terra onu demek istemedim
+beni yanlış anladın
+beni yanlis anladin
+beni yanlış anladın ya
+beni yanlis anladin ya
+terra beni yanlış anladın
+terra beni yanlis anladin
+cevabın yanlış
+cevabin yanlis
+cevabın yanlış ya
+cevabin yanlis ya
+terra cevabın yanlış
+terra cevabin yanlis
+bu bilgi yanlış
+bu bilgi yanlis
+bu bilgi yanlış ya
+bu bilgi yanlis ya
+terra bu bilgi yanlış
+terra bu bilgi yanlis
+yanlış cevap verdin
+yanlis cevap verdin
+yanlış cevap verdin ya
+yanlis cevap verdin ya
+terra yanlış cevap verdin
+terra yanlis cevap verdin
+başka konuya geçelim
+baska konuya gecelim
+başka konuya geçelim ya
+baska konuya gecelim ya
+terra başka konuya geçelim
+terra baska konuya gecelim
+konuyu değiştirelim
+konuyu degistirelim
+konuyu değiştirelim ya
+konuyu degistirelim ya
+terra konuyu değiştirelim
+terra konuyu degistirelim
+başka bir şey konuşalım
+baska bir sey konusalim
+başka bir şey konuşalım ya
+baska bir sey konusalim ya
+terra başka bir şey konuşalım
+terra baska bir sey konusalim
+yarın devam edelim
+yarin devam edelim
+yarın devam edelim ya
+yarin devam edelim ya
+terra yarın devam edelim
+terra yarin devam edelim
+sonra devam ederiz
+sonra devam ederiz ya
+terra sonra devam ederiz
+bugünlük yeter
+bugunluk yeter
+bugünlük yeter ya
+bugunluk yeter ya
+terra bugünlük yeter
+terra bugunluk yeter
+yeni bilgi öğreniyor musun
+yeni bilgi ogreniyor musun
+yeni bilgi öğreniyor musun ya
+yeni bilgi ogreniyor musun ya
+terra yeni bilgi öğreniyor musun
+terra yeni bilgi ogreniyor musun
+sohbet ederken öğrenir misin
+sohbet ederken ogrenir misin
+sohbet ederken öğrenir misin ya
+sohbet ederken ogrenir misin ya
+terra sohbet ederken öğrenir misin
+terra sohbet ederken ogrenir misin
+konuşunca ağırlıkların değişir mi
+konusunca agirliklarin degisir mi
+konuşunca ağırlıkların değişir mi ya
+konusunca agirliklarin degisir mi ya
+terra konuşunca ağırlıkların değişir mi
+terra konusunca agirliklarin degisir mi
+kaç parametren var
+kac parametren var
+kaç parametren var ya
+kac parametren var ya
+terra kaç parametren var
+terra kac parametren var
+model boyutun ne
+model boyutun ne ya
+terra model boyutun ne
+parametre sayın kaç
+parametre sayin kac
+parametre sayın kaç ya
+parametre sayin kac ya
+terra parametre sayın kaç
+terra parametre sayin kac
+cevaplarını nereden alıyorsun
+cevaplarini nereden aliyorsun
+cevaplarını nereden alıyorsun ya
+cevaplarini nereden aliyorsun ya
+terra cevaplarını nereden alıyorsun
+terra cevaplarini nereden aliyorsun
+hazır cevap mı gösteriyorsun
+hazir cevap mi gosteriyorsun
+hazır cevap mı gösteriyorsun ya
+hazir cevap mi gosteriyorsun ya
+terra hazır cevap mı gösteriyorsun
+terra hazir cevap mi gosteriyorsun
+yanıtı gerçekten model mi yazıyor
+yaniti gercekten model mi yaziyor
+yanıtı gerçekten model mi yazıyor ya
+yaniti gercekten model mi yaziyor ya
+terra yanıtı gerçekten model mi yazıyor
+terra yaniti gercekten model mi yaziyor
+klasör nedir
+klasor nedir
+klasör ne demek
+klasor ne demek
+klasör anlatır mısın
+klasor anlatir misin
+klasör konusunu açıkla
+klasor konusunu acikla
+klasör hakkında bilgi ver
+klasor hakkinda bilgi ver
+bana klasör anlat
+bana klasor anlat
+klasör tam olarak nedir
+klasor tam olarak nedir
+klasör hakkında konuşalım
+klasor hakkinda konusalim
+dosya yolu nedir
+dosya yolu ne demek
+dosya yolu anlatır mısın
+dosya yolu anlatir misin
+dosya yolu konusunu açıkla
+dosya yolu konusunu acikla
+dosya yolu hakkında bilgi ver
+dosya yolu hakkinda bilgi ver
+bana dosya yolu anlat
+dosya yolu tam olarak nedir
+dosya yolu hakkında konuşalım
+dosya yolu hakkinda konusalim
+terminal nedir
+terminal ne demek
+terminal anlatır mısın
+terminal anlatir misin
+terminal konusunu açıkla
+terminal konusunu acikla
+terminal hakkında bilgi ver
+terminal hakkinda bilgi ver
+bana terminal anlat
+terminal tam olarak nedir
+terminal hakkında konuşalım
+terminal hakkinda konusalim
+sözdizimi hatası nedir
+sozdizimi hatasi nedir
+sözdizimi hatası ne demek
+sozdizimi hatasi ne demek
+sözdizimi hatası anlatır mısın
+sozdizimi hatasi anlatir misin
+sözdizimi hatası konusunu açıkla
+sozdizimi hatasi konusunu acikla
+sözdizimi hatası hakkında bilgi ver
+sozdizimi hatasi hakkinda bilgi ver
+bana sözdizimi hatası anlat
+bana sozdizimi hatasi anlat
+sözdizimi hatası tam olarak nedir
+sozdizimi hatasi tam olarak nedir
+sözdizimi hatası hakkında konuşalım
+sozdizimi hatasi hakkinda konusalim
+mantık hatası nedir
+mantik hatasi nedir
+mantık hatası ne demek
+mantik hatasi ne demek
+mantık hatası anlatır mısın
+mantik hatasi anlatir misin
+mantık hatası konusunu açıkla
+mantik hatasi konusunu acikla
+mantık hatası hakkında bilgi ver
+mantik hatasi hakkinda bilgi ver
+bana mantık hatası anlat
+bana mantik hatasi anlat
+mantık hatası tam olarak nedir
+mantik hatasi tam olarak nedir
+mantık hatası hakkında konuşalım
+mantik hatasi hakkinda konusalim
+birim testi ne demek
+birim testi anlatır mısın
+birim testi anlatir misin
+birim testi konusunu acikla
+birim testi hakkinda bilgi ver
+birim testi tam olarak nedir
+birim testi hakkında konuşalım
+birim testi hakkinda konusalim
+sınır durumu nedir
+sinir durumu nedir
+sınır durumu ne demek
+sinir durumu ne demek
+sınır durumu anlatır mısın
+sinir durumu anlatir misin
+sınır durumu konusunu açıkla
+sinir durumu konusunu acikla
+sınır durumu hakkında bilgi ver
+sinir durumu hakkinda bilgi ver
+bana sınır durumu anlat
+bana sinir durumu anlat
+sınır durumu tam olarak nedir
+sinir durumu tam olarak nedir
+sınır durumu hakkında konuşalım
+sinir durumu hakkinda konusalim
+yedekleme nedir
+yedekleme ne demek
+yedekleme anlatır mısın
+yedekleme anlatir misin
+yedekleme konusunu açıkla
+yedekleme konusunu acikla
+yedekleme hakkında bilgi ver
+yedekleme hakkinda bilgi ver
+bana yedekleme anlat
+yedekleme tam olarak nedir
+yedekleme hakkında konuşalım
+yedekleme hakkinda konusalim
+surum kontrolu nedir
+sürüm kontrolü ne demek
+surum kontrolu ne demek
+sürüm kontrolü anlatır mısın
+surum kontrolu anlatir misin
+surum kontrolu konusunu acikla
+surum kontrolu hakkinda bilgi ver
+bana surum kontrolu anlat
+sürüm kontrolü tam olarak nedir
+surum kontrolu tam olarak nedir
+sürüm kontrolü hakkında konuşalım
+surum kontrolu hakkinda konusalim
+arayüz nedir
+arayuz nedir
+arayüz ne demek
+arayuz ne demek
+arayüz anlatır mısın
+arayuz anlatir misin
+arayüz konusunu açıkla
+arayuz konusunu acikla
+arayüz hakkında bilgi ver
+arayuz hakkinda bilgi ver
+bana arayüz anlat
+bana arayuz anlat
+arayüz tam olarak nedir
+arayuz tam olarak nedir
+arayüz hakkında konuşalım
+arayuz hakkinda konusalim
+veri tipi nedir
+veri tipi ne demek
+veri tipi anlatır mısın
+veri tipi anlatir misin
+veri tipi konusunu açıkla
+veri tipi konusunu acikla
+veri tipi hakkında bilgi ver
+veri tipi hakkinda bilgi ver
+bana veri tipi anlat
+veri tipi tam olarak nedir
+veri tipi hakkında konuşalım
+veri tipi hakkinda konusalim
+girinti nedir
+girinti ne demek
+girinti anlatır mısın
+girinti anlatir misin
+girinti konusunu açıkla
+girinti konusunu acikla
+girinti hakkında bilgi ver
+girinti hakkinda bilgi ver
+bana girinti anlat
+girinti tam olarak nedir
+girinti hakkında konuşalım
+girinti hakkinda konusalim
+enerjim kalmadı
+enerjim kalmadi
+terra enerjim kalmadı
+terra enerjim kalmadi
+enerjim kalmadı ya
+enerjim kalmadi ya
+kendimi yorgun hissediyorum
+terra kendimi yorgun hissediyorum
+kendimi yorgun hissediyorum ya
+bugün hiç halim yok
+bugun hic halim yok
+terra bugün hiç halim yok
+terra bugun hic halim yok
+bugün hiç halim yok ya
+bugun hic halim yok ya
+çok yorgun hissediyorum
+cok yorgun hissediyorum
+terra çok yorgun hissediyorum
+terra cok yorgun hissediyorum
+çok yorgun hissediyorum ya
+cok yorgun hissediyorum ya
+bu akşam yorgunum
+bu aksam yorgunum
+terra bu akşam yorgunum
+terra bu aksam yorgunum
+bu akşam yorgunum ya
+bu aksam yorgunum ya
+yoruldum biraz
+terra yoruldum biraz
+yoruldum biraz ya
+bütün gün yoruldum
+butun gun yoruldum
+terra bütün gün yoruldum
+terra butun gun yoruldum
+bütün gün yoruldum ya
+butun gun yoruldum ya
+yorgunluktan bir şey yapasım yok
+yorgunluktan bir sey yapasim yok
+terra yorgunluktan bir şey yapasım yok
+terra yorgunluktan bir sey yapasim yok
+yorgunluktan bir şey yapasım yok ya
+yorgunluktan bir sey yapasim yok ya
+neyle uğraşacağımı seçemiyorum
+neyle ugrasacagimi secemiyorum
+terra neyle uğraşacağımı seçemiyorum
+terra neyle ugrasacagimi secemiyorum
+neyle uğraşacağımı seçemiyorum ya
+neyle ugrasacagimi secemiyorum ya
+bir şey yapasım var ama ne bilmiyorum
+bir sey yapasim var ama ne bilmiyorum
+terra bir şey yapasım var ama ne bilmiyorum
+terra bir sey yapasim var ama ne bilmiyorum
+bir şey yapasım var ama ne bilmiyorum ya
+bir sey yapasim var ama ne bilmiyorum ya
+karar veremiyorum ne yapsam
+terra karar veremiyorum ne yapsam
+karar veremiyorum ne yapsam ya
+ne yapayım şimdi
+ne yapayim simdi
+terra ne yapayım şimdi
+terra ne yapayim simdi
+ne yapayım şimdi ya
+ne yapayim simdi ya
+hangi işle uğraşsam
+hangi isle ugrassam
+terra hangi işle uğraşsam
+terra hangi isle ugrassam
+hangi işle uğraşsam ya
+hangi isle ugrassam ya
+kendime bir uğraş bulamıyorum
+kendime bir ugras bulamiyorum
+terra kendime bir uğraş bulamıyorum
+terra kendime bir ugras bulamiyorum
+kendime bir uğraş bulamıyorum ya
+kendime bir ugras bulamiyorum ya
+yapacak iş seçemedim
+yapacak is secemedim
+terra yapacak iş seçemedim
+terra yapacak is secemedim
+yapacak iş seçemedim ya
+yapacak is secemedim ya
+bir fikir bulmakta zorlanıyorum
+bir fikir bulmakta zorlaniyorum
+terra bir fikir bulmakta zorlanıyorum
+terra bir fikir bulmakta zorlaniyorum
+bir fikir bulmakta zorlanıyorum ya
+bir fikir bulmakta zorlaniyorum ya
+yeni şeyler öğrenesim var
+yeni seyler ogrenesim var
+terra yeni şeyler öğrenesim var
+terra yeni seyler ogrenesim var
+yeni şeyler öğrenesim var ya
+yeni seyler ogrenesim var ya
+öğrenmek istiyorum
+ogrenmek istiyorum
+terra öğrenmek istiyorum
+terra ogrenmek istiyorum
+öğrenmek istiyorum ya
+ogrenmek istiyorum ya
+bir konu öğrenelim
+bir konu ogrenelim
+terra bir konu öğrenelim
+terra bir konu ogrenelim
+bir konu öğrenelim ya
+bir konu ogrenelim ya
+yeni bir şey öğrenmek isterim
+yeni bir sey ogrenmek isterim
+terra yeni bir şey öğrenmek isterim
+terra yeni bir sey ogrenmek isterim
+yeni bir şey öğrenmek isterim ya
+yeni bir sey ogrenmek isterim ya
+bugün öğrenmeye zaman ayırmak istiyorum
+bugun ogrenmeye zaman ayirmak istiyorum
+terra bugün öğrenmeye zaman ayırmak istiyorum
+terra bugun ogrenmeye zaman ayirmak istiyorum
+bugün öğrenmeye zaman ayırmak istiyorum ya
+bugun ogrenmeye zaman ayirmak istiyorum ya
+bir şeyler öğrenesim geldi
+bir seyler ogrenesim geldi
+terra bir şeyler öğrenesim geldi
+terra bir seyler ogrenesim geldi
+bir şeyler öğrenesim geldi ya
+bir seyler ogrenesim geldi ya
+öğrenebileceğim bir şey seçelim
+ogrenebilecegim bir sey secelim
+terra öğrenebileceğim bir şey seçelim
+terra ogrenebilecegim bir sey secelim
+öğrenebileceğim bir şey seçelim ya
+ogrenebilecegim bir sey secelim ya
+bilmediğim bir konuya bakalım
+bilmedigim bir konuya bakalim
+terra bilmediğim bir konuya bakalım
+terra bilmedigim bir konuya bakalim
+bilmediğim bir konuya bakalım ya
+bilmedigim bir konuya bakalim ya
+dinlenesim var
+terra dinlenesim var
+dinlenesim var ya
+mola vermek istiyorum
+terra mola vermek istiyorum
+mola vermek istiyorum ya
+şimdi ara veriyorum
+simdi ara veriyorum
+terra şimdi ara veriyorum
+terra simdi ara veriyorum
+şimdi ara veriyorum ya
+simdi ara veriyorum ya
+biraz dinlenmeye ihtiyacım var
+biraz dinlenmeye ihtiyacim var
+terra biraz dinlenmeye ihtiyacım var
+terra biraz dinlenmeye ihtiyacim var
+biraz dinlenmeye ihtiyacım var ya
+biraz dinlenmeye ihtiyacim var ya
+ekrandan uzaklaşacağım
+ekrandan uzaklasacagim
+terra ekrandan uzaklaşacağım
+terra ekrandan uzaklasacagim
+ekrandan uzaklaşacağım ya
+ekrandan uzaklasacagim ya
+bir süre dinleneyim
+bir sure dinleneyim
+terra bir süre dinleneyim
+terra bir sure dinleneyim
+bir süre dinleneyim ya
+bir sure dinleneyim ya
+bugün mola vermek istiyorum
+bugun mola vermek istiyorum
+terra bugün mola vermek istiyorum
+terra bugun mola vermek istiyorum
+bugün mola vermek istiyorum ya
+bugun mola vermek istiyorum ya
+kendime kısa bir ara vereceğim
+kendime kisa bir ara verecegim
+terra kendime kısa bir ara vereceğim
+terra kendime kisa bir ara verecegim
+kendime kısa bir ara vereceğim ya
+kendime kisa bir ara verecegim ya
+ufak bir proje geliştirelim
+ufak bir proje gelistirelim
+terra ufak bir proje geliştirelim
+terra ufak bir proje gelistirelim
+ufak bir proje geliştirelim ya
+ufak bir proje gelistirelim ya
+küçük bir uygulama yapmak istiyorum
+kucuk bir uygulama yapmak istiyorum
+terra küçük bir uygulama yapmak istiyorum
+terra kucuk bir uygulama yapmak istiyorum
+küçük bir uygulama yapmak istiyorum ya
+kucuk bir uygulama yapmak istiyorum ya
+bir şey geliştirmek istiyorum
+bir sey gelistirmek istiyorum
+terra bir şey geliştirmek istiyorum
+terra bir sey gelistirmek istiyorum
+bir şey geliştirmek istiyorum ya
+bir sey gelistirmek istiyorum ya
+basit bir proje seçelim
+basit bir proje secelim
+terra basit bir proje seçelim
+terra basit bir proje secelim
+basit bir proje seçelim ya
+basit bir proje secelim ya
+ufak bir şey yapalım
+ufak bir sey yapalim
+terra ufak bir şey yapalım
+terra ufak bir sey yapalim
+ufak bir şey yapalım ya
+ufak bir sey yapalim ya
+üretebileceğim küçük bir iş arıyorum
+uretebilecegim kucuk bir is ariyorum
+terra üretebileceğim küçük bir iş arıyorum
+terra uretebilecegim kucuk bir is ariyorum
+üretebileceğim küçük bir iş arıyorum ya
+uretebilecegim kucuk bir is ariyorum ya
+mini proje fikri ver
+terra mini proje fikri ver
+mini proje fikri ver ya
+bir uygulamanın ilk sürümünü yapalım
+bir uygulamanin ilk surumunu yapalim
+terra bir uygulamanın ilk sürümünü yapalım
+terra bir uygulamanin ilk surumunu yapalim
+bir uygulamanın ilk sürümünü yapalım ya
+bir uygulamanin ilk surumunu yapalim ya
+başlamayı erteliyorum
+baslamayi erteliyorum
+terra başlamayı erteliyorum
+terra baslamayi erteliyorum
+başlamayı erteliyorum ya
+baslamayi erteliyorum ya
+ilk adımı atamıyorum
+ilk adimi atamiyorum
+terra ilk adımı atamıyorum
+terra ilk adimi atamiyorum
+ilk adımı atamıyorum ya
+ilk adimi atamiyorum ya
+başlamak istesem de zorlanıyorum
+baslamak istesem de zorlaniyorum
+terra başlamak istesem de zorlanıyorum
+terra baslamak istesem de zorlaniyorum
+başlamak istesem de zorlanıyorum ya
+baslamak istesem de zorlaniyorum ya
+yapacağım iş gözümde büyüyor
+yapacagim is gozumde buyuyor
+terra yapacağım iş gözümde büyüyor
+terra yapacagim is gozumde buyuyor
+yapacağım iş gözümde büyüyor ya
+yapacagim is gozumde buyuyor ya
+işe başlama konusunda takıldım
+ise baslama konusunda takildim
+terra işe başlama konusunda takıldım
+terra ise baslama konusunda takildim
+işe başlama konusunda takıldım ya
+ise baslama konusunda takildim ya
+başlamak istiyorum ama zor geliyor
+baslamak istiyorum ama zor geliyor
+terra başlamak istiyorum ama zor geliyor
+terra baslamak istiyorum ama zor geliyor
+başlamak istiyorum ama zor geliyor ya
+baslamak istiyorum ama zor geliyor ya
+nereden başlayacağımı düşünürken duruyorum
+nereden baslayacagimi dusunurken duruyorum
+terra nereden başlayacağımı düşünürken duruyorum
+terra nereden baslayacagimi dusunurken duruyorum
+nereden başlayacağımı düşünürken duruyorum ya
+nereden baslayacagimi dusunurken duruyorum ya
+bir türlü ilk adımı atamadım
+bir turlu ilk adimi atamadim
+terra bir türlü ilk adımı atamadım
+terra bir turlu ilk adimi atamadim
+bir türlü ilk adımı atamadım ya
+bir turlu ilk adimi atamadim ya
+derslerimi planlamak istiyorum
+terra derslerimi planlamak istiyorum
+derslerimi planlamak istiyorum ya
+ders çalışmayı nasıl planlayayım
+ders calismayi nasil planlayayim
+terra ders çalışmayı nasıl planlayayım
+terra ders calismayi nasil planlayayim
+ders çalışmayı nasıl planlayayım ya
+ders calismayi nasil planlayayim ya
+konuları hangi sırayla çalışayım
+konulari hangi sirayla calisayim
+terra konuları hangi sırayla çalışayım
+terra konulari hangi sirayla calisayim
+konuları hangi sırayla çalışayım ya
+konulari hangi sirayla calisayim ya
+okul dersleri için program yap
+okul dersleri icin program yap
+terra okul dersleri için program yap
+terra okul dersleri icin program yap
+okul dersleri için program yap ya
+okul dersleri icin program yap ya
+çalışma düzeni kurmak istiyorum
+calisma duzeni kurmak istiyorum
+terra çalışma düzeni kurmak istiyorum
+terra calisma duzeni kurmak istiyorum
+çalışma düzeni kurmak istiyorum ya
+calisma duzeni kurmak istiyorum ya
+dersler için zamanımı nasıl ayırayım
+dersler icin zamanimi nasil ayirayim
+terra dersler için zamanımı nasıl ayırayım
+terra dersler icin zamanimi nasil ayirayim
+dersler için zamanımı nasıl ayırayım ya
+dersler icin zamanimi nasil ayirayim ya
+derslerimi nasıl düzenleyeyim
+derslerimi nasil duzenleyeyim
+terra derslerimi nasıl düzenleyeyim
+terra derslerimi nasil duzenleyeyim
+derslerimi nasıl düzenleyeyim ya
+derslerimi nasil duzenleyeyim ya
+çalışacağım konuları planlayalım
+calisacagim konulari planlayalim
+terra çalışacağım konuları planlayalım
+terra calisacagim konulari planlayalim
+çalışacağım konuları planlayalım ya
+calisacagim konulari planlayalim ya
+projeyi nereden başlatayım
+projeyi nereden baslatayim
+terra projeyi nereden başlatayım
+terra projeyi nereden baslatayim
+projeyi nereden başlatayım ya
+projeyi nereden baslatayim ya
+büyük projeyi küçük işlere böl
+buyuk projeyi kucuk islere bol
+terra büyük projeyi küçük işlere böl
+terra buyuk projeyi kucuk islere bol
+büyük projeyi küçük işlere böl ya
+buyuk projeyi kucuk islere bol ya
+projeyi nasıl parçalara ayırırım
+projeyi nasil parcalara ayiririm
+terra projeyi nasıl parçalara ayırırım
+terra projeyi nasil parcalara ayiririm
+projeyi nasıl parçalara ayırırım ya
+projeyi nasil parcalara ayiririm ya
+büyük bir projede ilk adım ne olmalı
+buyuk bir projede ilk adim ne olmali
+terra büyük bir projede ilk adım ne olmalı
+terra buyuk bir projede ilk adim ne olmali
+büyük bir projede ilk adım ne olmalı ya
+buyuk bir projede ilk adim ne olmali ya
+projeye nereden girişeyim
+projeye nereden giriseyim
+terra projeye nereden girişeyim
+terra projeye nereden giriseyim
+projeye nereden girişeyim ya
+projeye nereden giriseyim ya
+projenin başlangıcını planla
+projenin baslangicini planla
+terra projenin başlangıcını planla
+terra projenin baslangicini planla
+projenin başlangıcını planla ya
+projenin baslangicini planla ya
+uygulamayı küçük adımlarla yapmak istiyorum
+uygulamayi kucuk adimlarla yapmak istiyorum
+terra uygulamayı küçük adımlarla yapmak istiyorum
+terra uygulamayi kucuk adimlarla yapmak istiyorum
+uygulamayı küçük adımlarla yapmak istiyorum ya
+uygulamayi kucuk adimlarla yapmak istiyorum ya
+kapsamlı bir projeye nasıl girişilir
+kapsamli bir projeye nasil girisilir
+terra kapsamlı bir projeye nasıl girişilir
+terra kapsamli bir projeye nasil girisilir
+kapsamlı bir projeye nasıl girişilir ya
+kapsamli bir projeye nasil girisilir ya
+yazdığım kod çalışmıyor
+yazdigim kod calismiyor
+terra yazdığım kod çalışmıyor
+terra yazdigim kod calismiyor
+yazdığım kod çalışmıyor ya
+yazdigim kod calismiyor ya
+programım çalışmayı reddediyor
+programim calismayi reddediyor
+terra programım çalışmayı reddediyor
+terra programim calismayi reddediyor
+programım çalışmayı reddediyor ya
+programim calismayi reddediyor ya
+kodum bir türlü çalışmadı
+kodum bir turlu calismadi
+terra kodum bir türlü çalışmadı
+terra kodum bir turlu calismadi
+kodum bir türlü çalışmadı ya
+kodum bir turlu calismadi ya
+programı başlatınca hata oluyor
+programi baslatinca hata oluyor
+terra programı başlatınca hata oluyor
+terra programi baslatinca hata oluyor
+programı başlatınca hata oluyor ya
+programi baslatinca hata oluyor ya
+uygulamam hata veriyor
+terra uygulamam hata veriyor
+uygulamam hata veriyor ya
+programı çalıştıramadım
+programi calistiramadim
+terra programı çalıştıramadım
+terra programi calistiramadim
+programı çalıştıramadım ya
+programi calistiramadim ya
+kodda hata alıyorum
+kodda hata aliyorum
+terra kodda hata alıyorum
+terra kodda hata aliyorum
+kodda hata alıyorum ya
+kodda hata aliyorum ya
+programın çalışmasında sorun var
+programin calismasinda sorun var
+terra programın çalışmasında sorun var
+terra programin calismasinda sorun var
+programın çalışmasında sorun var ya
+programin calismasinda sorun var ya
+hata çıktısını nasıl inceleyeyim
+hata ciktisini nasil inceleyeyim
+terra hata çıktısını nasıl inceleyeyim
+terra hata ciktisini nasil inceleyeyim
+hata çıktısını nasıl inceleyeyim ya
+hata ciktisini nasil inceleyeyim ya
+traceback çıktısında nereye bakılır
+traceback ciktisinda nereye bakilir
+terra traceback çıktısında nereye bakılır
+terra traceback ciktisinda nereye bakilir
+traceback çıktısında nereye bakılır ya
+traceback ciktisinda nereye bakilir ya
+hata yazısında önemli kısım neresi
+hata yazisinda onemli kisim neresi
+terra hata yazısında önemli kısım neresi
+terra hata yazisinda onemli kisim neresi
+hata yazısında önemli kısım neresi ya
+hata yazisinda onemli kisim neresi ya
+hata mesajındaki hangi satır önemli
+hata mesajindaki hangi satir onemli
+terra hata mesajındaki hangi satır önemli
+terra hata mesajindaki hangi satir onemli
+hata mesajındaki hangi satır önemli ya
+hata mesajindaki hangi satir onemli ya
+hata raporunu okumayı anlat
+hata raporunu okumayi anlat
+terra hata raporunu okumayı anlat
+terra hata raporunu okumayi anlat
+hata raporunu okumayı anlat ya
+hata raporunu okumayi anlat ya
+kodun hata çıktısını anlamıyorum
+kodun hata ciktisini anlamiyorum
+terra kodun hata çıktısını anlamıyorum
+terra kodun hata ciktisini anlamiyorum
+kodun hata çıktısını anlamıyorum ya
+kodun hata ciktisini anlamiyorum ya
+traceback satırları ne anlatıyor
+traceback satirlari ne anlatiyor
+terra traceback satırları ne anlatıyor
+terra traceback satirlari ne anlatiyor
+traceback satırları ne anlatıyor ya
+traceback satirlari ne anlatiyor ya
+hata çıktısını nereden okumalıyım
+hata ciktisini nereden okumaliyim
+terra hata çıktısını nereden okumalıyım
+terra hata ciktisini nereden okumaliyim
+hata çıktısını nereden okumalıyım ya
+hata ciktisini nereden okumaliyim ya
+programı çalıştırmayı başardım
+programi calistirmayi basardim
+terra programı çalıştırmayı başardım
+terra programi calistirmayi basardim
+programı çalıştırmayı başardım ya
+programi calistirmayi basardim ya
+artık kodum çalışıyor
+artik kodum calisiyor
+terra artık kodum çalışıyor
+terra artik kodum calisiyor
+artık kodum çalışıyor ya
+artik kodum calisiyor ya
+sorunu giderdim
+terra sorunu giderdim
+sorunu giderdim ya
+kodun hatası düzeldi
+kodun hatasi duzeldi
+terra kodun hatası düzeldi
+terra kodun hatasi duzeldi
+kodun hatası düzeldi ya
+kodun hatasi duzeldi ya
+program artık açılıyor
+program artik aciliyor
+terra program artık açılıyor
+terra program artik aciliyor
+program artık açılıyor ya
+program artik aciliyor ya
+nihayet kod çalışıyor
+nihayet kod calisiyor
+terra nihayet kod çalışıyor
+terra nihayet kod calisiyor
+nihayet kod çalışıyor ya
+nihayet kod calisiyor ya
+uygulamadaki hatayı çözdüm
+uygulamadaki hatayi cozdum
+terra uygulamadaki hatayı çözdüm
+terra uygulamadaki hatayi cozdum
+uygulamadaki hatayı çözdüm ya
+uygulamadaki hatayi cozdum ya
+çalışmayan kodu düzelttim
+calismayan kodu duzelttim
+terra çalışmayan kodu düzelttim
+terra calismayan kodu duzelttim
+çalışmayan kodu düzelttim ya
+calismayan kodu duzelttim ya
+beni doğru anlamadın
+beni dogru anlamadin
+terra beni doğru anlamadın
+terra beni dogru anlamadin
+beni doğru anlamadın ya
+beni dogru anlamadin ya
+demek istediğim farklıydı
+demek istedigim farkliydi
+terra demek istediğim farklıydı
+terra demek istedigim farkliydi
+demek istediğim farklıydı ya
+demek istedigim farkliydi ya
+bunu kastetmiyordum
+terra bunu kastetmiyordum
+bunu kastetmiyordum ya
+anlatmak istediğim bu değil
+anlatmak istedigim bu degil
+terra anlatmak istediğim bu değil
+terra anlatmak istedigim bu degil
+anlatmak istediğim bu değil ya
+anlatmak istedigim bu degil ya
+söylediğim şeyi başka anladın
+soyledigim seyi baska anladin
+terra söylediğim şeyi başka anladın
+terra soyledigim seyi baska anladin
+söylediğim şeyi başka anladın ya
+soyledigim seyi baska anladin ya
+öyle demek istemedim
+oyle demek istemedim
+terra öyle demek istemedim
+terra oyle demek istemedim
+öyle demek istemedim ya
+oyle demek istemedim ya
+sorumu farklı yorumladın
+sorumu farkli yorumladin
+terra sorumu farklı yorumladın
+terra sorumu farkli yorumladin
+sorumu farklı yorumladın ya
+sorumu farkli yorumladin ya
+beni anlamakta yanıldın
+beni anlamakta yanildin
+terra beni anlamakta yanıldın
+terra beni anlamakta yanildin
+beni anlamakta yanıldın ya
+beni anlamakta yanildin ya
+yanıtında hata var
+yanitinda hata var
+terra yanıtında hata var
+terra yanitinda hata var
+yanıtında hata var ya
+yanitinda hata var ya
+söylediğin bilgi doğru değil
+soyledigin bilgi dogru degil
+terra söylediğin bilgi doğru değil
+terra soyledigin bilgi dogru degil
+söylediğin bilgi doğru değil ya
+soyledigin bilgi dogru degil ya
+cevabın doğru görünmüyor
+cevabin dogru gorunmuyor
+terra cevabın doğru görünmüyor
+terra cevabin dogru gorunmuyor
+cevabın doğru görünmüyor ya
+cevabin dogru gorunmuyor ya
+verdiğin bilgide yanlışlık var
+verdigin bilgide yanlislik var
+terra verdiğin bilgide yanlışlık var
+terra verdigin bilgide yanlislik var
+verdiğin bilgide yanlışlık var ya
+verdigin bilgide yanlislik var ya
+bu yanıtı yanlış buluyorum
+bu yaniti yanlis buluyorum
+terra bu yanıtı yanlış buluyorum
+terra bu yaniti yanlis buluyorum
+bu yanıtı yanlış buluyorum ya
+bu yaniti yanlis buluyorum ya
+cevapta bir hata olduğunu düşünüyorum
+cevapta bir hata oldugunu dusunuyorum
+terra cevapta bir hata olduğunu düşünüyorum
+terra cevapta bir hata oldugunu dusunuyorum
+cevapta bir hata olduğunu düşünüyorum ya
+cevapta bir hata oldugunu dusunuyorum ya
+söylediğin doğru değil
+soyledigin dogru degil
+terra söylediğin doğru değil
+terra soyledigin dogru degil
+söylediğin doğru değil ya
+soyledigin dogru degil ya
+yanıtın hatalı
+yanitin hatali
+terra yanıtın hatalı
+terra yanitin hatali
+yanıtın hatalı ya
+yanitin hatali ya
+bu konuyu bırakalım
+bu konuyu birakalim
+terra bu konuyu bırakalım
+terra bu konuyu birakalim
+bu konuyu bırakalım ya
+bu konuyu birakalim ya
+farklı bir konu konuşalım
+farkli bir konu konusalim
+terra farklı bir konu konuşalım
+terra farkli bir konu konusalim
+farklı bir konu konuşalım ya
+farkli bir konu konusalim ya
+başka bir konudan bahsedelim
+baska bir konudan bahsedelim
+terra başka bir konudan bahsedelim
+terra baska bir konudan bahsedelim
+başka bir konudan bahsedelim ya
+baska bir konudan bahsedelim ya
+konuştuğumuz konuyu değiştirelim
+konustugumuz konuyu degistirelim
+terra konuştuğumuz konuyu değiştirelim
+terra konustugumuz konuyu degistirelim
+konuştuğumuz konuyu değiştirelim ya
+konustugumuz konuyu degistirelim ya
+bu konu yerine başka şey konuşalım
+bu konu yerine baska sey konusalim
+terra bu konu yerine başka şey konuşalım
+terra bu konu yerine baska sey konusalim
+bu konu yerine başka şey konuşalım ya
+bu konu yerine baska sey konusalim ya
+şimdi farklı bir şey soracağım
+simdi farkli bir sey soracagim
+terra şimdi farklı bir şey soracağım
+terra simdi farkli bir sey soracagim
+şimdi farklı bir şey soracağım ya
+simdi farkli bir sey soracagim ya
+konu değiştirmek istiyorum
+konu degistirmek istiyorum
+terra konu değiştirmek istiyorum
+terra konu degistirmek istiyorum
+konu değiştirmek istiyorum ya
+konu degistirmek istiyorum ya
+başka bir başlığa geçelim
+baska bir basliga gecelim
+terra başka bir başlığa geçelim
+terra baska bir basliga gecelim
+başka bir başlığa geçelim ya
+baska bir basliga gecelim ya
+bugünlük bırakalım
+bugunluk birakalim
+terra bugünlük bırakalım
+terra bugunluk birakalim
+bugünlük bırakalım ya
+bugunluk birakalim ya
+şimdilik burada duralım
+simdilik burada duralim
+terra şimdilik burada duralım
+terra simdilik burada duralim
+şimdilik burada duralım ya
+simdilik burada duralim ya
+yarın kaldığımız yerden sürdürürüz
+yarin kaldigimiz yerden surdururuz
+terra yarın kaldığımız yerden sürdürürüz
+terra yarin kaldigimiz yerden surdururuz
+yarın kaldığımız yerden sürdürürüz ya
+yarin kaldigimiz yerden surdururuz ya
+sonra devam etmek istiyorum
+terra sonra devam etmek istiyorum
+sonra devam etmek istiyorum ya
+bugün bitirelim yarın bakalım
+bugun bitirelim yarin bakalim
+terra bugün bitirelim yarın bakalım
+terra bugun bitirelim yarin bakalim
+bugün bitirelim yarın bakalım ya
+bugun bitirelim yarin bakalim ya
+çalışmaya daha sonra devam ederiz
+calismaya daha sonra devam ederiz
+terra çalışmaya daha sonra devam ederiz
+terra calismaya daha sonra devam ederiz
+çalışmaya daha sonra devam ederiz ya
+calismaya daha sonra devam ederiz ya
+bu işi sonraya bırakalım
+bu isi sonraya birakalim
+terra bu işi sonraya bırakalım
+terra bu isi sonraya birakalim
+bu işi sonraya bırakalım ya
+bu isi sonraya birakalim ya
+bugün ara verip sonra sürdürürüz
+bugun ara verip sonra surdururuz
+terra bugün ara verip sonra sürdürürüz
+terra bugun ara verip sonra surdururuz
+bugün ara verip sonra sürdürürüz ya
+bugun ara verip sonra surdururuz ya
+ben yazınca öğreniyor musun
+ben yazinca ogreniyor musun
+terra ben yazınca öğreniyor musun
+terra ben yazinca ogreniyor musun
+ben yazınca öğreniyor musun ya
+ben yazinca ogreniyor musun ya
+sohbetten kendini eğitir misin
+sohbetten kendini egitir misin
+terra sohbetten kendini eğitir misin
+terra sohbetten kendini egitir misin
+sohbetten kendini eğitir misin ya
+sohbetten kendini egitir misin ya
+mesajlaşırken model değişiyor mu
+mesajlasirken model degisiyor mu
+terra mesajlaşırken model değişiyor mu
+terra mesajlasirken model degisiyor mu
+mesajlaşırken model değişiyor mu ya
+mesajlasirken model degisiyor mu ya
+her mesajım seni eğitir mi
+her mesajim seni egitir mi
+terra her mesajım seni eğitir mi
+terra her mesajim seni egitir mi
+her mesajım seni eğitir mi ya
+her mesajim seni egitir mi ya
+yazdığım şeyler ağırlıklarına işlenir mi
+yazdigim seyler agirliklarina islenir mi
+terra yazdığım şeyler ağırlıklarına işlenir mi
+terra yazdigim seyler agirliklarina islenir mi
+yazdığım şeyler ağırlıklarına işlenir mi ya
+yazdigim seyler agirliklarina islenir mi ya
+benimle konuşarak kendini geliştiriyor musun
+benimle konusarak kendini gelistiriyor musun
+terra benimle konuşarak kendini geliştiriyor musun
+terra benimle konusarak kendini gelistiriyor musun
+benimle konuşarak kendini geliştiriyor musun ya
+benimle konusarak kendini gelistiriyor musun ya
+sohbette söylediklerim eğitim sayılır mı
+sohbette soylediklerim egitim sayilir mi
+terra sohbette söylediklerim eğitim sayılır mı
+terra sohbette soylediklerim egitim sayilir mi
+sohbette söylediklerim eğitim sayılır mı ya
+sohbette soylediklerim egitim sayilir mi ya
+konuşma sırasında öğrenme oluyor mu
+konusma sirasinda ogrenme oluyor mu
+terra konuşma sırasında öğrenme oluyor mu
+terra konusma sirasinda ogrenme oluyor mu
+konuşma sırasında öğrenme oluyor mu ya
+konusma sirasinda ogrenme oluyor mu ya
+toplam parametren kaç
+toplam parametren kac
+terra toplam parametren kaç
+terra toplam parametren kac
+toplam parametren kaç ya
+toplam parametren kac ya
+modelindeki parametre sayısı ne
+modelindeki parametre sayisi ne
+terra modelindeki parametre sayısı ne
+terra modelindeki parametre sayisi ne
+modelindeki parametre sayısı ne ya
+modelindeki parametre sayisi ne ya
+sen kaç parametresin
+sen kac parametresin
+terra sen kaç parametresin
+terra sen kac parametresin
+sen kaç parametresin ya
+sen kac parametresin ya
+parametre adedini söyle
+parametre adedini soyle
+terra parametre adedini söyle
+terra parametre adedini soyle
+parametre adedini söyle ya
+parametre adedini soyle ya
+kaç tane ağırlığın var
+kac tane agirligin var
+terra kaç tane ağırlığın var
+terra kac tane agirligin var
+kaç tane ağırlığın var ya
+kac tane agirligin var ya
+modelin kaç parametreden oluşuyor
+modelin kac parametreden olusuyor
+terra modelin kaç parametreden oluşuyor
+terra modelin kac parametreden olusuyor
+modelin kaç parametreden oluşuyor ya
+modelin kac parametreden olusuyor ya
+ne kadar parametren bulunuyor
+terra ne kadar parametren bulunuyor
+ne kadar parametren bulunuyor ya
+modelinin boyutu kaç parametre
+modelinin boyutu kac parametre
+terra modelinin boyutu kaç parametre
+terra modelinin boyutu kac parametre
+modelinin boyutu kaç parametre ya
+modelinin boyutu kac parametre ya
+cevapları nasıl üretiyorsun
+cevaplari nasil uretiyorsun
+terra cevapları nasıl üretiyorsun
+terra cevaplari nasil uretiyorsun
+cevapları nasıl üretiyorsun ya
+cevaplari nasil uretiyorsun ya
+yanıtların nasıl oluşuyor
+yanitlarin nasil olusuyor
+terra yanıtların nasıl oluşuyor
+terra yanitlarin nasil olusuyor
+yanıtların nasıl oluşuyor ya
+yanitlarin nasil olusuyor ya
+bu cevapları hangi yöntemle yazıyorsun
+bu cevaplari hangi yontemle yaziyorsun
+terra bu cevapları hangi yöntemle yazıyorsun
+terra bu cevaplari hangi yontemle yaziyorsun
+bu cevapları hangi yöntemle yazıyorsun ya
+bu cevaplari hangi yontemle yaziyorsun ya
+cevabı model mi üretiyor
+cevabi model mi uretiyor
+terra cevabı model mi üretiyor
+terra cevabi model mi uretiyor
+cevabı model mi üretiyor ya
+cevabi model mi uretiyor ya
+yazdıklarını nereden getiriyorsun
+yazdiklarini nereden getiriyorsun
+terra yazdıklarını nereden getiriyorsun
+terra yazdiklarini nereden getiriyorsun
+yazdıklarını nereden getiriyorsun ya
+yazdiklarini nereden getiriyorsun ya
+hazır yanıtı mı kopyalıyorsun
+hazir yaniti mi kopyaliyorsun
+terra hazır yanıtı mı kopyalıyorsun
+terra hazir yaniti mi kopyaliyorsun
+hazır yanıtı mı kopyalıyorsun ya
+hazir yaniti mi kopyaliyorsun ya
+bu uygulama nasıl yanıt oluşturuyor
+bu uygulama nasil yanit olusturuyor
+terra bu uygulama nasıl yanıt oluşturuyor
+terra bu uygulama nasil yanit olusturuyor
+bu uygulama nasıl yanıt oluşturuyor ya
+bu uygulama nasil yanit olusturuyor ya
+cevap verme yöntemin ne
+cevap verme yontemin ne
+terra cevap verme yöntemin ne
+terra cevap verme yontemin ne
+cevap verme yöntemin ne ya
+cevap verme yontemin ne ya
+eğitim konusu ne anlatıyor
+egitim konusu ne anlatiyor
+eğitim kavramından bahseder misin
+egitim kavramindan bahseder misin
+eğitim konusunda biraz konuşalım
+egitim konusunda biraz konusalim
+eğitim hakkında biraz açıklama yap
+egitim hakkinda biraz aciklama yap
+eğitim kavramını anlamak istiyorum
+egitim kavramini anlamak istiyorum
+parametre konusu ne anlatıyor
+parametre konusu ne anlatiyor
+parametre kavramından bahseder misin
+parametre kavramindan bahseder misin
+parametre konusunda biraz konuşalım
+parametre konusunda biraz konusalim
+parametre hakkında biraz açıklama yap
+parametre hakkinda biraz aciklama yap
+parametre kavramını anlamak istiyorum
+parametre kavramini anlamak istiyorum
+model parametreleri konusu ne anlatıyor
+model parametreleri konusu ne anlatiyor
+model parametreleri kavramından bahseder misin
+model parametreleri kavramindan bahseder misin
+model parametreleri konusunda biraz konuşalım
+model parametreleri konusunda biraz konusalim
+model parametreleri hakkında biraz açıklama yap
+model parametreleri hakkinda biraz aciklama yap
+model parametreleri kavramını anlamak istiyorum
+model parametreleri kavramini anlamak istiyorum
+token konusu ne anlatıyor
+token konusu ne anlatiyor
+token kavramından bahseder misin
+token kavramindan bahseder misin
+token konusunda biraz konuşalım
+token konusunda biraz konusalim
+token hakkında biraz açıklama yap
+token hakkinda biraz aciklama yap
+token kavramını anlamak istiyorum
+token kavramini anlamak istiyorum
+bayt token konusu ne anlatıyor
+bayt token konusu ne anlatiyor
+bayt token kavramından bahseder misin
+bayt token kavramindan bahseder misin
+bayt token konusunda biraz konuşalım
+bayt token konusunda biraz konusalim
+bayt token hakkında biraz açıklama yap
+bayt token hakkinda biraz aciklama yap
+bayt token kavramını anlamak istiyorum
+bayt token kavramini anlamak istiyorum
+eğitim kaybı konusu ne anlatıyor
+egitim kaybi konusu ne anlatiyor
+eğitim kaybı kavramından bahseder misin
+egitim kaybi kavramindan bahseder misin
+eğitim kaybı konusunda biraz konuşalım
+egitim kaybi konusunda biraz konusalim
+eğitim kaybı hakkında biraz açıklama yap
+egitim kaybi hakkinda biraz aciklama yap
+eğitim kaybı kavramını anlamak istiyorum
+egitim kaybi kavramini anlamak istiyorum
+loss konusu ne anlatıyor
+loss konusu ne anlatiyor
+loss kavramından bahseder misin
+loss kavramindan bahseder misin
+loss konusunda biraz konuşalım
+loss konusunda biraz konusalim
+loss hakkında biraz açıklama yap
+loss hakkinda biraz aciklama yap
+loss kavramını anlamak istiyorum
+loss kavramini anlamak istiyorum
+kayıp değeri konusu ne anlatıyor
+kayip degeri konusu ne anlatiyor
+kayıp değeri kavramından bahseder misin
+kayip degeri kavramindan bahseder misin
+kayıp değeri konusunda biraz konuşalım
+kayip degeri konusunda biraz konusalim
+kayıp değeri hakkında biraz açıklama yap
+kayip degeri hakkinda biraz aciklama yap
+kayıp değeri kavramını anlamak istiyorum
+kayip degeri kavramini anlamak istiyorum
+doğrulama verisi konusu ne anlatıyor
+dogrulama verisi konusu ne anlatiyor
+doğrulama verisi kavramından bahseder misin
+dogrulama verisi kavramindan bahseder misin
+doğrulama verisi konusunda biraz konuşalım
+dogrulama verisi konusunda biraz konusalim
+doğrulama verisi hakkında biraz açıklama yap
+dogrulama verisi hakkinda biraz aciklama yap
+doğrulama verisi kavramını anlamak istiyorum
+dogrulama verisi kavramini anlamak istiyorum
+ezberleme konusu ne anlatıyor
+ezberleme konusu ne anlatiyor
+ezberleme kavramından bahseder misin
+ezberleme kavramindan bahseder misin
+ezberleme konusunda biraz konuşalım
+ezberleme konusunda biraz konusalim
+ezberleme hakkında biraz açıklama yap
+ezberleme hakkinda biraz aciklama yap
+ezberleme kavramını anlamak istiyorum
+ezberleme kavramini anlamak istiyorum
+overfitting konusu ne anlatıyor
+overfitting konusu ne anlatiyor
+overfitting kavramından bahseder misin
+overfitting kavramindan bahseder misin
+overfitting konusunda biraz konuşalım
+overfitting konusunda biraz konusalim
+overfitting hakkında biraz açıklama yap
+overfitting hakkinda biraz aciklama yap
+overfitting kavramını anlamak istiyorum
+overfitting kavramini anlamak istiyorum
+aşırı öğrenme konusu ne anlatıyor
+asiri ogrenme konusu ne anlatiyor
+aşırı öğrenme kavramından bahseder misin
+asiri ogrenme kavramindan bahseder misin
+aşırı öğrenme konusunda biraz konuşalım
+asiri ogrenme konusunda biraz konusalim
+aşırı öğrenme hakkında biraz açıklama yap
+asiri ogrenme hakkinda biraz aciklama yap
+aşırı öğrenme kavramını anlamak istiyorum
+asiri ogrenme kavramini anlamak istiyorum
+yazılım konusu ne anlatıyor
+yazilim konusu ne anlatiyor
+yazılım kavramından bahseder misin
+yazilim kavramindan bahseder misin
+yazılım konusunda biraz konuşalım
+yazilim konusunda biraz konusalim
+yazılım hakkında biraz açıklama yap
+yazilim hakkinda biraz aciklama yap
+yazılım kavramını anlamak istiyorum
+yazilim kavramini anlamak istiyorum
+program konusu ne anlatıyor
+program konusu ne anlatiyor
+program kavramından bahseder misin
+program kavramindan bahseder misin
+program konusunda biraz konuşalım
+program konusunda biraz konusalim
+program hakkında biraz açıklama yap
+program hakkinda biraz aciklama yap
+program kavramını anlamak istiyorum
+program kavramini anlamak istiyorum
+değişken konusu ne anlatıyor
+degisken konusu ne anlatiyor
+değişken kavramından bahseder misin
+degisken kavramindan bahseder misin
+değişken konusunda biraz konuşalım
+degisken konusunda biraz konusalim
+değişken hakkında biraz açıklama yap
+degisken hakkinda biraz aciklama yap
+değişken kavramını anlamak istiyorum
+degisken kavramini anlamak istiyorum
+variable konusu ne anlatıyor
+variable konusu ne anlatiyor
+variable kavramından bahseder misin
+variable kavramindan bahseder misin
+variable konusunda biraz konuşalım
+variable konusunda biraz konusalim
+variable hakkında biraz açıklama yap
+variable hakkinda biraz aciklama yap
+variable kavramını anlamak istiyorum
+variable kavramini anlamak istiyorum
+fonksiyon konusu ne anlatıyor
+fonksiyon konusu ne anlatiyor
+fonksiyon kavramından bahseder misin
+fonksiyon kavramindan bahseder misin
+fonksiyon konusunda biraz konuşalım
+fonksiyon konusunda biraz konusalim
+fonksiyon hakkında biraz açıklama yap
+fonksiyon hakkinda biraz aciklama yap
+fonksiyon kavramını anlamak istiyorum
+fonksiyon kavramini anlamak istiyorum
+function konusu ne anlatıyor
+function konusu ne anlatiyor
+function kavramından bahseder misin
+function kavramindan bahseder misin
+function konusunda biraz konuşalım
+function konusunda biraz konusalim
+function hakkında biraz açıklama yap
+function hakkinda biraz aciklama yap
+function kavramını anlamak istiyorum
+function kavramini anlamak istiyorum
+döngü konusu ne anlatıyor
+dongu konusu ne anlatiyor
+döngü kavramından bahseder misin
+dongu kavramindan bahseder misin
+döngü konusunda biraz konuşalım
+dongu konusunda biraz konusalim
+döngü hakkında biraz açıklama yap
+dongu hakkinda biraz aciklama yap
+döngü kavramını anlamak istiyorum
+dongu kavramini anlamak istiyorum
+loop konusu ne anlatıyor
+loop konusu ne anlatiyor
+loop kavramından bahseder misin
+loop kavramindan bahseder misin
+loop konusunda biraz konuşalım
+loop konusunda biraz konusalim
+loop hakkında biraz açıklama yap
+loop hakkinda biraz aciklama yap
+loop kavramını anlamak istiyorum
+loop kavramini anlamak istiyorum
+koşul konusu ne anlatıyor
+kosul konusu ne anlatiyor
+koşul kavramından bahseder misin
+kosul kavramindan bahseder misin
+koşul konusunda biraz konuşalım
+kosul konusunda biraz konusalim
+koşul hakkında biraz açıklama yap
+kosul hakkinda biraz aciklama yap
+koşul kavramını anlamak istiyorum
+kosul kavramini anlamak istiyorum
+if else konusu ne anlatıyor
+if else konusu ne anlatiyor
+if else kavramından bahseder misin
+if else kavramindan bahseder misin
+if else konusunda biraz konuşalım
+if else konusunda biraz konusalim
+if else hakkında biraz açıklama yap
+if else hakkinda biraz aciklama yap
+if else kavramını anlamak istiyorum
+if else kavramini anlamak istiyorum
+liste konusu ne anlatıyor
+liste konusu ne anlatiyor
+liste kavramından bahseder misin
+liste kavramindan bahseder misin
+liste konusunda biraz konuşalım
+liste konusunda biraz konusalim
+liste hakkında biraz açıklama yap
+liste hakkinda biraz aciklama yap
+liste kavramını anlamak istiyorum
+liste kavramini anlamak istiyorum
+python listesi konusu ne anlatıyor
+python listesi konusu ne anlatiyor
+python listesi kavramından bahseder misin
+python listesi kavramindan bahseder misin
+python listesi konusunda biraz konuşalım
+python listesi konusunda biraz konusalim
+python listesi hakkında biraz açıklama yap
+python listesi hakkinda biraz aciklama yap
+python listesi kavramını anlamak istiyorum
+python listesi kavramini anlamak istiyorum
+sözlük konusu ne anlatıyor
+sozluk konusu ne anlatiyor
+sözlük kavramından bahseder misin
+sozluk kavramindan bahseder misin
+sözlük konusunda biraz konuşalım
+sozluk konusunda biraz konusalim
+sözlük hakkında biraz açıklama yap
+sozluk hakkinda biraz aciklama yap
+sözlük kavramını anlamak istiyorum
+sozluk kavramini anlamak istiyorum
+python sözlüğü konusu ne anlatıyor
+python sozlugu konusu ne anlatiyor
+python sözlüğü kavramından bahseder misin
+python sozlugu kavramindan bahseder misin
+python sözlüğü konusunda biraz konuşalım
+python sozlugu konusunda biraz konusalim
+python sözlüğü hakkında biraz açıklama yap
+python sozlugu hakkinda biraz aciklama yap
+python sözlüğü kavramını anlamak istiyorum
+python sozlugu kavramini anlamak istiyorum
+dict konusu ne anlatıyor
+dict konusu ne anlatiyor
+dict kavramından bahseder misin
+dict kavramindan bahseder misin
+dict konusunda biraz konuşalım
+dict konusunda biraz konusalim
+dict hakkında biraz açıklama yap
+dict hakkinda biraz aciklama yap
+dict kavramını anlamak istiyorum
+dict kavramini anlamak istiyorum
+string konusu ne anlatıyor
+string konusu ne anlatiyor
+string kavramından bahseder misin
+string kavramindan bahseder misin
+string konusunda biraz konuşalım
+string konusunda biraz konusalim
+string hakkında biraz açıklama yap
+string hakkinda biraz aciklama yap
+string kavramını anlamak istiyorum
+string kavramini anlamak istiyorum
+metin türü konusu ne anlatıyor
+metin turu konusu ne anlatiyor
+metin türü kavramından bahseder misin
+metin turu kavramindan bahseder misin
+metin türü konusunda biraz konuşalım
+metin turu konusunda biraz konusalim
+metin türü hakkında biraz açıklama yap
+metin turu hakkinda biraz aciklama yap
+metin türü kavramını anlamak istiyorum
+metin turu kavramini anlamak istiyorum
+str konusu ne anlatıyor
+str konusu ne anlatiyor
+str kavramından bahseder misin
+str kavramindan bahseder misin
+str konusunda biraz konuşalım
+str konusunda biraz konusalim
+str hakkında biraz açıklama yap
+str hakkinda biraz aciklama yap
+str kavramını anlamak istiyorum
+str kavramini anlamak istiyorum
+boolean konusu ne anlatıyor
+boolean konusu ne anlatiyor
+boolean kavramından bahseder misin
+boolean kavramindan bahseder misin
+boolean konusunda biraz konuşalım
+boolean konusunda biraz konusalim
+boolean hakkında biraz açıklama yap
+boolean hakkinda biraz aciklama yap
+boolean kavramını anlamak istiyorum
+boolean kavramini anlamak istiyorum
+bool konusu ne anlatıyor
+bool konusu ne anlatiyor
+bool kavramından bahseder misin
+bool kavramindan bahseder misin
+bool konusunda biraz konuşalım
+bool konusunda biraz konusalim
+bool hakkında biraz açıklama yap
+bool hakkinda biraz aciklama yap
+bool kavramını anlamak istiyorum
+bool kavramini anlamak istiyorum
+true false konusu ne anlatıyor
+true false konusu ne anlatiyor
+true false kavramından bahseder misin
+true false kavramindan bahseder misin
+true false konusunda biraz konuşalım
+true false konusunda biraz konusalim
+true false hakkında biraz açıklama yap
+true false hakkinda biraz aciklama yap
+true false kavramını anlamak istiyorum
+true false kavramini anlamak istiyorum
+hata ayıklama konusu ne anlatıyor
+hata ayiklama konusu ne anlatiyor
+hata ayıklama kavramından bahseder misin
+hata ayiklama kavramindan bahseder misin
+hata ayıklama konusunda biraz konuşalım
+hata ayiklama konusunda biraz konusalim
+hata ayıklama hakkında biraz açıklama yap
+hata ayiklama hakkinda biraz aciklama yap
+hata ayıklama kavramını anlamak istiyorum
+hata ayiklama kavramini anlamak istiyorum
+debug konusu ne anlatıyor
+debug konusu ne anlatiyor
+debug kavramından bahseder misin
+debug kavramindan bahseder misin
+debug konusunda biraz konuşalım
+debug konusunda biraz konusalim
+debug hakkında biraz açıklama yap
+debug hakkinda biraz aciklama yap
+debug kavramını anlamak istiyorum
+debug kavramini anlamak istiyorum
+debugging konusu ne anlatıyor
+debugging konusu ne anlatiyor
+debugging kavramından bahseder misin
+debugging kavramindan bahseder misin
+debugging konusunda biraz konuşalım
+debugging konusunda biraz konusalim
+debugging hakkında biraz açıklama yap
+debugging hakkinda biraz aciklama yap
+debugging kavramını anlamak istiyorum
+debugging kavramini anlamak istiyorum
+birim testi konusu ne anlatıyor
+birim testi konusu ne anlatiyor
+birim testi kavramından bahseder misin
+birim testi kavramindan bahseder misin
+birim testi konusunda biraz konuşalım
+birim testi konusunda biraz konusalim
+birim testi hakkında biraz açıklama yap
+birim testi hakkinda biraz aciklama yap
+birim testi kavramını anlamak istiyorum
+birim testi kavramini anlamak istiyorum
+unit test konusu ne anlatıyor
+unit test konusu ne anlatiyor
+unit test kavramından bahseder misin
+unit test kavramindan bahseder misin
+unit test konusunda biraz konuşalım
+unit test konusunda biraz konusalim
+unit test hakkında biraz açıklama yap
+unit test hakkinda biraz aciklama yap
+unit test kavramını anlamak istiyorum
+unit test kavramini anlamak istiyorum
+algoritma konusu ne anlatıyor
+algoritma konusu ne anlatiyor
+algoritma kavramından bahseder misin
+algoritma kavramindan bahseder misin
+algoritma konusunda biraz konuşalım
+algoritma konusunda biraz konusalim
+algoritma hakkında biraz açıklama yap
+algoritma hakkinda biraz aciklama yap
+algoritma kavramını anlamak istiyorum
+algoritma kavramini anlamak istiyorum
+api konusu ne anlatıyor
+api konusu ne anlatiyor
+api kavramından bahseder misin
+api kavramindan bahseder misin
+api konusunda biraz konuşalım
+api konusunda biraz konusalim
+api hakkında biraz açıklama yap
+api hakkinda biraz aciklama yap
+api kavramını anlamak istiyorum
+api kavramini anlamak istiyorum
+json konusu ne anlatıyor
+json konusu ne anlatiyor
+json kavramından bahseder misin
+json kavramindan bahseder misin
+json konusunda biraz konuşalım
+json konusunda biraz konusalim
+json hakkında biraz açıklama yap
+json hakkinda biraz aciklama yap
+json kavramını anlamak istiyorum
+json kavramini anlamak istiyorum
+html konusu ne anlatıyor
+html konusu ne anlatiyor
+html kavramından bahseder misin
+html kavramindan bahseder misin
+html konusunda biraz konuşalım
+html konusunda biraz konusalim
+html hakkında biraz açıklama yap
+html hakkinda biraz aciklama yap
+html kavramını anlamak istiyorum
+html kavramini anlamak istiyorum
+web sayfasının yapısı konusu ne anlatıyor
+web sayfasinin yapisi konusu ne anlatiyor
+web sayfasının yapısı kavramından bahseder misin
+web sayfasinin yapisi kavramindan bahseder misin
+web sayfasının yapısı konusunda biraz konuşalım
+web sayfasinin yapisi konusunda biraz konusalim
+web sayfasının yapısı hakkında biraz açıklama yap
+web sayfasinin yapisi hakkinda biraz aciklama yap
+web sayfasının yapısı kavramını anlamak istiyorum
+web sayfasinin yapisi kavramini anlamak istiyorum
+css konusu ne anlatıyor
+css konusu ne anlatiyor
+css kavramından bahseder misin
+css kavramindan bahseder misin
+css konusunda biraz konuşalım
+css konusunda biraz konusalim
+css hakkında biraz açıklama yap
+css hakkinda biraz aciklama yap
+css kavramını anlamak istiyorum
+css kavramini anlamak istiyorum
+javascript konusu ne anlatıyor
+javascript konusu ne anlatiyor
+javascript kavramından bahseder misin
+javascript kavramindan bahseder misin
+javascript konusunda biraz konuşalım
+javascript konusunda biraz konusalim
+javascript hakkında biraz açıklama yap
+javascript hakkinda biraz aciklama yap
+javascript kavramını anlamak istiyorum
+javascript kavramini anlamak istiyorum
+python konusu ne anlatıyor
+python konusu ne anlatiyor
+python kavramından bahseder misin
+python kavramindan bahseder misin
+python konusunda biraz konuşalım
+python konusunda biraz konusalim
+python hakkında biraz açıklama yap
+python hakkinda biraz aciklama yap
+python kavramını anlamak istiyorum
+python kavramini anlamak istiyorum
+git konusu ne anlatıyor
+git konusu ne anlatiyor
+git kavramından bahseder misin
+git kavramindan bahseder misin
+git konusunda biraz konuşalım
+git konusunda biraz konusalim
+git hakkında biraz açıklama yap
+git hakkinda biraz aciklama yap
+git kavramını anlamak istiyorum
+git kavramini anlamak istiyorum
+sürüm kontrolü konusu ne anlatıyor
+surum kontrolu konusu ne anlatiyor
+sürüm kontrolü kavramından bahseder misin
+surum kontrolu kavramindan bahseder misin
+sürüm kontrolü konusunda biraz konuşalım
+surum kontrolu konusunda biraz konusalim
+sürüm kontrolü hakkında biraz açıklama yap
+surum kontrolu hakkinda biraz aciklama yap
+sürüm kontrolü kavramını anlamak istiyorum
+surum kontrolu kavramini anlamak istiyorum
+veritabanı konusu ne anlatıyor
+veritabani konusu ne anlatiyor
+veritabanı kavramından bahseder misin
+veritabani kavramindan bahseder misin
+veritabanı konusunda biraz konuşalım
+veritabani konusunda biraz konusalim
+veritabanı hakkında biraz açıklama yap
+veritabani hakkinda biraz aciklama yap
+veritabanı kavramını anlamak istiyorum
+veritabani kavramini anlamak istiyorum
+database konusu ne anlatıyor
+database konusu ne anlatiyor
+database kavramından bahseder misin
+database kavramindan bahseder misin
+database konusunda biraz konuşalım
+database konusunda biraz konusalim
+database hakkında biraz açıklama yap
+database hakkinda biraz aciklama yap
+database kavramını anlamak istiyorum
+database kavramini anlamak istiyorum
+sql konusu ne anlatıyor
+sql konusu ne anlatiyor
+sql kavramından bahseder misin
+sql kavramindan bahseder misin
+sql konusunda biraz konuşalım
+sql konusunda biraz konusalim
+sql hakkında biraz açıklama yap
+sql hakkinda biraz aciklama yap
+sql kavramını anlamak istiyorum
+sql kavramini anlamak istiyorum
+yorum satırı konusu ne anlatıyor
+yorum satiri konusu ne anlatiyor
+yorum satırı kavramından bahseder misin
+yorum satiri kavramindan bahseder misin
+yorum satırı konusunda biraz konuşalım
+yorum satiri konusunda biraz konusalim
+yorum satırı hakkında biraz açıklama yap
+yorum satiri hakkinda biraz aciklama yap
+yorum satırı kavramını anlamak istiyorum
+yorum satiri kavramini anlamak istiyorum
+sıfıra bölme konusu ne anlatıyor
+sifira bolme konusu ne anlatiyor
+sıfıra bölme kavramından bahseder misin
+sifira bolme kavramindan bahseder misin
+sıfıra bölme konusunda biraz konuşalım
+sifira bolme konusunda biraz konusalim
+sıfıra bölme hakkında biraz açıklama yap
+sifira bolme hakkinda biraz aciklama yap
+sıfıra bölme kavramını anlamak istiyorum
+sifira bolme kavramini anlamak istiyorum
+int ve float farkı konusu ne anlatıyor
+int ve float farki konusu ne anlatiyor
+int ve float farkı kavramından bahseder misin
+int ve float farki kavramindan bahseder misin
+int ve float farkı konusunda biraz konuşalım
+int ve float farki konusunda biraz konusalim
+int ve float farkı hakkında biraz açıklama yap
+int ve float farki hakkinda biraz aciklama yap
+int ve float farkı kavramını anlamak istiyorum
+int ve float farki kavramini anlamak istiyorum
+tam sayı ve ondalıklı sayı farkı konusu ne anlatıyor
+tam sayi ve ondalikli sayi farki konusu ne anlatiyor
+tam sayı ve ondalıklı sayı farkı kavramından bahseder misin
+tam sayi ve ondalikli sayi farki kavramindan bahseder misin
+tam sayı ve ondalıklı sayı farkı konusunda biraz konuşalım
+tam sayi ve ondalikli sayi farki konusunda biraz konusalim
+tam sayı ve ondalıklı sayı farkı hakkında biraz açıklama yap
+tam sayi ve ondalikli sayi farki hakkinda biraz aciklama yap
+tam sayı ve ondalıklı sayı farkı kavramını anlamak istiyorum
+tam sayi ve ondalikli sayi farki kavramini anlamak istiyorum
+eşittir ve çift eşittir farkı konusu ne anlatıyor
+esittir ve cift esittir farki konusu ne anlatiyor
+eşittir ve çift eşittir farkı kavramından bahseder misin
+esittir ve cift esittir farki kavramindan bahseder misin
+eşittir ve çift eşittir farkı konusunda biraz konuşalım
+esittir ve cift esittir farki konusunda biraz konusalim
+eşittir ve çift eşittir farkı hakkında biraz açıklama yap
+esittir ve cift esittir farki hakkinda biraz aciklama yap
+eşittir ve çift eşittir farkı kavramını anlamak istiyorum
+esittir ve cift esittir farki kavramini anlamak istiyorum
+klasör konusu ne anlatıyor
+klasor konusu ne anlatiyor
+klasör kavramından bahseder misin
+klasor kavramindan bahseder misin
+klasör konusunda biraz konuşalım
+klasor konusunda biraz konusalim
+klasör hakkında biraz açıklama yap
+klasor hakkinda biraz aciklama yap
+klasör kavramını anlamak istiyorum
+klasor kavramini anlamak istiyorum
+klasor konusu ne anlatıyor
+klasor kavramından bahseder misin
+klasor konusunda biraz konuşalım
+klasor hakkında biraz açıklama yap
+klasor kavramını anlamak istiyorum
+klasör tam olarak konusu ne anlatıyor
+klasor tam olarak konusu ne anlatiyor
+klasör tam olarak kavramından bahseder misin
+klasor tam olarak kavramindan bahseder misin
+klasör tam olarak konusunda biraz konuşalım
+klasor tam olarak konusunda biraz konusalim
+klasör tam olarak hakkında biraz açıklama yap
+klasor tam olarak hakkinda biraz aciklama yap
+klasör tam olarak kavramını anlamak istiyorum
+klasor tam olarak kavramini anlamak istiyorum
+klasor tam olarak konusu ne anlatıyor
+klasor tam olarak kavramından bahseder misin
+klasor tam olarak konusunda biraz konuşalım
+klasor tam olarak hakkında biraz açıklama yap
+klasor tam olarak kavramını anlamak istiyorum
+dosya yolu konusu ne anlatıyor
+dosya yolu konusu ne anlatiyor
+dosya yolu kavramından bahseder misin
+dosya yolu kavramindan bahseder misin
+dosya yolu konusunda biraz konuşalım
+dosya yolu konusunda biraz konusalim
+dosya yolu hakkında biraz açıklama yap
+dosya yolu hakkinda biraz aciklama yap
+dosya yolu kavramını anlamak istiyorum
+dosya yolu kavramini anlamak istiyorum
+dosya yolu tam olarak konusu ne anlatıyor
+dosya yolu tam olarak konusu ne anlatiyor
+dosya yolu tam olarak kavramından bahseder misin
+dosya yolu tam olarak kavramindan bahseder misin
+dosya yolu tam olarak konusunda biraz konuşalım
+dosya yolu tam olarak konusunda biraz konusalim
+dosya yolu tam olarak hakkında biraz açıklama yap
+dosya yolu tam olarak hakkinda biraz aciklama yap
+dosya yolu tam olarak kavramını anlamak istiyorum
+dosya yolu tam olarak kavramini anlamak istiyorum
+terminal konusu ne anlatıyor
+terminal konusu ne anlatiyor
+terminal kavramından bahseder misin
+terminal kavramindan bahseder misin
+terminal konusunda biraz konuşalım
+terminal konusunda biraz konusalim
+terminal hakkında biraz açıklama yap
+terminal hakkinda biraz aciklama yap
+terminal kavramını anlamak istiyorum
+terminal kavramini anlamak istiyorum
+terminal tam olarak konusu ne anlatıyor
+terminal tam olarak konusu ne anlatiyor
+terminal tam olarak kavramından bahseder misin
+terminal tam olarak kavramindan bahseder misin
+terminal tam olarak konusunda biraz konuşalım
+terminal tam olarak konusunda biraz konusalim
+terminal tam olarak hakkında biraz açıklama yap
+terminal tam olarak hakkinda biraz aciklama yap
+terminal tam olarak kavramını anlamak istiyorum
+terminal tam olarak kavramini anlamak istiyorum
+sözdizimi hatası konusu ne anlatıyor
+sozdizimi hatasi konusu ne anlatiyor
+sözdizimi hatası kavramından bahseder misin
+sozdizimi hatasi kavramindan bahseder misin
+sözdizimi hatası konusunda biraz konuşalım
+sozdizimi hatasi konusunda biraz konusalim
+sözdizimi hatası hakkında biraz açıklama yap
+sozdizimi hatasi hakkinda biraz aciklama yap
+sözdizimi hatası kavramını anlamak istiyorum
+sozdizimi hatasi kavramini anlamak istiyorum
+sozdizimi hatasi konusu ne anlatıyor
+sozdizimi hatasi kavramından bahseder misin
+sozdizimi hatasi konusunda biraz konuşalım
+sozdizimi hatasi hakkında biraz açıklama yap
+sozdizimi hatasi kavramını anlamak istiyorum
+sözdizimi hatası tam olarak konusu ne anlatıyor
+sozdizimi hatasi tam olarak konusu ne anlatiyor
+sözdizimi hatası tam olarak kavramından bahseder misin
+sozdizimi hatasi tam olarak kavramindan bahseder misin
+sözdizimi hatası tam olarak konusunda biraz konuşalım
+sozdizimi hatasi tam olarak konusunda biraz konusalim
+sözdizimi hatası tam olarak hakkında biraz açıklama yap
+sozdizimi hatasi tam olarak hakkinda biraz aciklama yap
+sözdizimi hatası tam olarak kavramını anlamak istiyorum
+sozdizimi hatasi tam olarak kavramini anlamak istiyorum
+sozdizimi hatasi tam olarak konusu ne anlatıyor
+sozdizimi hatasi tam olarak kavramından bahseder misin
+sozdizimi hatasi tam olarak konusunda biraz konuşalım
+sozdizimi hatasi tam olarak hakkında biraz açıklama yap
+sozdizimi hatasi tam olarak kavramını anlamak istiyorum
+mantık hatası konusu ne anlatıyor
+mantik hatasi konusu ne anlatiyor
+mantık hatası kavramından bahseder misin
+mantik hatasi kavramindan bahseder misin
+mantık hatası konusunda biraz konuşalım
+mantik hatasi konusunda biraz konusalim
+mantık hatası hakkında biraz açıklama yap
+mantik hatasi hakkinda biraz aciklama yap
+mantık hatası kavramını anlamak istiyorum
+mantik hatasi kavramini anlamak istiyorum
+mantik hatasi konusu ne anlatıyor
+mantik hatasi kavramından bahseder misin
+mantik hatasi konusunda biraz konuşalım
+mantik hatasi hakkında biraz açıklama yap
+mantik hatasi kavramını anlamak istiyorum
+mantık hatası tam olarak konusu ne anlatıyor
+mantik hatasi tam olarak konusu ne anlatiyor
+mantık hatası tam olarak kavramından bahseder misin
+mantik hatasi tam olarak kavramindan bahseder misin
+mantık hatası tam olarak konusunda biraz konuşalım
+mantik hatasi tam olarak konusunda biraz konusalim
+mantık hatası tam olarak hakkında biraz açıklama yap
+mantik hatasi tam olarak hakkinda biraz aciklama yap
+mantık hatası tam olarak kavramını anlamak istiyorum
+mantik hatasi tam olarak kavramini anlamak istiyorum
+mantik hatasi tam olarak konusu ne anlatıyor
+mantik hatasi tam olarak kavramından bahseder misin
+mantik hatasi tam olarak konusunda biraz konuşalım
+mantik hatasi tam olarak hakkında biraz açıklama yap
+mantik hatasi tam olarak kavramını anlamak istiyorum
+birim testi tam olarak konusu ne anlatıyor
+birim testi tam olarak konusu ne anlatiyor
+birim testi tam olarak kavramından bahseder misin
+birim testi tam olarak kavramindan bahseder misin
+birim testi tam olarak konusunda biraz konuşalım
+birim testi tam olarak konusunda biraz konusalim
+birim testi tam olarak hakkında biraz açıklama yap
+birim testi tam olarak hakkinda biraz aciklama yap
+birim testi tam olarak kavramını anlamak istiyorum
+birim testi tam olarak kavramini anlamak istiyorum
+sınır durumu konusu ne anlatıyor
+sinir durumu konusu ne anlatiyor
+sınır durumu kavramından bahseder misin
+sinir durumu kavramindan bahseder misin
+sınır durumu konusunda biraz konuşalım
+sinir durumu konusunda biraz konusalim
+sınır durumu hakkında biraz açıklama yap
+sinir durumu hakkinda biraz aciklama yap
+sınır durumu kavramını anlamak istiyorum
+sinir durumu kavramini anlamak istiyorum
+sinir durumu konusu ne anlatıyor
+sinir durumu kavramından bahseder misin
+sinir durumu konusunda biraz konuşalım
+sinir durumu hakkında biraz açıklama yap
+sinir durumu kavramını anlamak istiyorum
+sınır durumu tam olarak konusu ne anlatıyor
+sinir durumu tam olarak konusu ne anlatiyor
+sınır durumu tam olarak kavramından bahseder misin
+sinir durumu tam olarak kavramindan bahseder misin
+sınır durumu tam olarak konusunda biraz konuşalım
+sinir durumu tam olarak konusunda biraz konusalim
+sınır durumu tam olarak hakkında biraz açıklama yap
+sinir durumu tam olarak hakkinda biraz aciklama yap
+sınır durumu tam olarak kavramını anlamak istiyorum
+sinir durumu tam olarak kavramini anlamak istiyorum
+sinir durumu tam olarak konusu ne anlatıyor
+sinir durumu tam olarak kavramından bahseder misin
+sinir durumu tam olarak konusunda biraz konuşalım
+sinir durumu tam olarak hakkında biraz açıklama yap
+sinir durumu tam olarak kavramını anlamak istiyorum
+yedekleme konusu ne anlatıyor
+yedekleme konusu ne anlatiyor
+yedekleme kavramından bahseder misin
+yedekleme kavramindan bahseder misin
+yedekleme konusunda biraz konuşalım
+yedekleme konusunda biraz konusalim
+yedekleme hakkında biraz açıklama yap
+yedekleme hakkinda biraz aciklama yap
+yedekleme kavramını anlamak istiyorum
+yedekleme kavramini anlamak istiyorum
+yedekleme tam olarak konusu ne anlatıyor
+yedekleme tam olarak konusu ne anlatiyor
+yedekleme tam olarak kavramından bahseder misin
+yedekleme tam olarak kavramindan bahseder misin
+yedekleme tam olarak konusunda biraz konuşalım
+yedekleme tam olarak konusunda biraz konusalim
+yedekleme tam olarak hakkında biraz açıklama yap
+yedekleme tam olarak hakkinda biraz aciklama yap
+yedekleme tam olarak kavramını anlamak istiyorum
+yedekleme tam olarak kavramini anlamak istiyorum
+surum kontrolu konusu ne anlatıyor
+surum kontrolu kavramından bahseder misin
+surum kontrolu konusunda biraz konuşalım
+surum kontrolu hakkında biraz açıklama yap
+surum kontrolu kavramını anlamak istiyorum
+sürüm kontrolü tam olarak konusu ne anlatıyor
+surum kontrolu tam olarak konusu ne anlatiyor
+sürüm kontrolü tam olarak kavramından bahseder misin
+surum kontrolu tam olarak kavramindan bahseder misin
+sürüm kontrolü tam olarak konusunda biraz konuşalım
+surum kontrolu tam olarak konusunda biraz konusalim
+sürüm kontrolü tam olarak hakkında biraz açıklama yap
+surum kontrolu tam olarak hakkinda biraz aciklama yap
+sürüm kontrolü tam olarak kavramını anlamak istiyorum
+surum kontrolu tam olarak kavramini anlamak istiyorum
+surum kontrolu tam olarak konusu ne anlatıyor
+surum kontrolu tam olarak kavramından bahseder misin
+surum kontrolu tam olarak konusunda biraz konuşalım
+surum kontrolu tam olarak hakkında biraz açıklama yap
+surum kontrolu tam olarak kavramını anlamak istiyorum
+arayüz konusu ne anlatıyor
+arayuz konusu ne anlatiyor
+arayüz kavramından bahseder misin
+arayuz kavramindan bahseder misin
+arayüz konusunda biraz konuşalım
+arayuz konusunda biraz konusalim
+arayüz hakkında biraz açıklama yap
+arayuz hakkinda biraz aciklama yap
+arayüz kavramını anlamak istiyorum
+arayuz kavramini anlamak istiyorum
+arayuz konusu ne anlatıyor
+arayuz kavramından bahseder misin
+arayuz konusunda biraz konuşalım
+arayuz hakkında biraz açıklama yap
+arayuz kavramını anlamak istiyorum
+arayüz tam olarak konusu ne anlatıyor
+arayuz tam olarak konusu ne anlatiyor
+arayüz tam olarak kavramından bahseder misin
+arayuz tam olarak kavramindan bahseder misin
+arayüz tam olarak konusunda biraz konuşalım
+arayuz tam olarak konusunda biraz konusalim
+arayüz tam olarak hakkında biraz açıklama yap
+arayuz tam olarak hakkinda biraz aciklama yap
+arayüz tam olarak kavramını anlamak istiyorum
+arayuz tam olarak kavramini anlamak istiyorum
+arayuz tam olarak konusu ne anlatıyor
+arayuz tam olarak kavramından bahseder misin
+arayuz tam olarak konusunda biraz konuşalım
+arayuz tam olarak hakkında biraz açıklama yap
+arayuz tam olarak kavramını anlamak istiyorum
+veri tipi konusu ne anlatıyor
+veri tipi konusu ne anlatiyor
+veri tipi kavramından bahseder misin
+veri tipi kavramindan bahseder misin
+veri tipi konusunda biraz konuşalım
+veri tipi konusunda biraz konusalim
+veri tipi hakkında biraz açıklama yap
+veri tipi hakkinda biraz aciklama yap
+veri tipi kavramını anlamak istiyorum
+veri tipi kavramini anlamak istiyorum
+veri tipi tam olarak konusu ne anlatıyor
+veri tipi tam olarak konusu ne anlatiyor
+veri tipi tam olarak kavramından bahseder misin
+veri tipi tam olarak kavramindan bahseder misin
+veri tipi tam olarak konusunda biraz konuşalım
+veri tipi tam olarak konusunda biraz konusalim
+veri tipi tam olarak hakkında biraz açıklama yap
+veri tipi tam olarak hakkinda biraz aciklama yap
+veri tipi tam olarak kavramını anlamak istiyorum
+veri tipi tam olarak kavramini anlamak istiyorum
+girinti konusu ne anlatıyor
+girinti konusu ne anlatiyor
+girinti kavramından bahseder misin
+girinti kavramindan bahseder misin
+girinti konusunda biraz konuşalım
+girinti konusunda biraz konusalim
+girinti hakkında biraz açıklama yap
+girinti hakkinda biraz aciklama yap
+girinti kavramını anlamak istiyorum
+girinti kavramini anlamak istiyorum
+girinti tam olarak konusu ne anlatıyor
+girinti tam olarak konusu ne anlatiyor
+girinti tam olarak kavramından bahseder misin
+girinti tam olarak kavramindan bahseder misin
+girinti tam olarak konusunda biraz konuşalım
+girinti tam olarak konusunda biraz konusalim
+girinti tam olarak hakkında biraz açıklama yap
+girinti tam olarak hakkinda biraz aciklama yap
+girinti tam olarak kavramını anlamak istiyorum
+girinti tam olarak kavramini anlamak istiyorum
